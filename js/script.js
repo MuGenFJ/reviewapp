@@ -365,6 +365,48 @@ const reviewArray = [
         answer:
           "The boxer struck (verb:strike) his opponent.",
       },
+      {
+        id: 51,
+        question:
+        "[No51]. [Translate in Jap] : My clothess are torn(verb:tear). ",
+        answer:
+          "(服)・ふくが破れています。（やぶる）",
+      },
+      {
+        id: 52,
+        question:
+        "[No52]. [Translate in Jap] : The electricity is lighted. ",
+        answer:
+          "電気が点きます(・つく）",
+      },
+      {
+        id: 53,
+        question:
+        "[No53]. [Translate in Jap] : May i use this plastic bag ? This plastic bag is torn, please use this one. ",
+        answer:　
+        "このビニールぶくろを使ってもいいですか。 --このビニールぶくろはやぶれていますから、これを使ってください。",
+      },
+      {
+        id: 54,
+        question:
+        "[No54]. [Translate in Jap] : I applied for the honeymoon. ",
+        answer:　
+        "新婚旅行（・しんこんりょこう）をも仕込んで（・もうしこむ）あります。",
+      },
+      {
+        id: 55,
+        question:
+        "[No55]. [Translate in Jap] : I wrote my name on the note. ",
+        answer:　
+        " メモに名前が書いてあります。",
+      },
+      {
+        id: 56,
+        question:
+        "[No56]. [Translate in Jap] : I put the battery in the flashlight. ",
+        answer:　
+        "懐中電灯（・かいちゅうでんとう）に電池（・でんち）を入れておきます。",
+      },
  
   ];
 
