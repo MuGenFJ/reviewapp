@@ -407,6 +407,174 @@ const reviewArray = [
         answer:　
         "懐中電灯（・かいちゅうでんとう）に電池（・でんち）を入れておきます。",
       },
+      {
+        id: 57,
+        question:
+        "[No57]. [Translate in Jap] : It's already 12 o'clock, let's hurry up sleeping. ",
+        answer:　
+        "もう12時だから、早寝よう（・ねよう）！",
+      },
+      {
+        id: 58,
+        question:
+        "[No58]. [Translate in Jap] : I think to go to Osaka next week. ",
+        answer:　
+        "来週は大阪に行こうと思っています。",
+      },
+      {
+        id: 59,
+        question:
+        "[No59]. [Translate in Jap] : This clothes looks fashionable, i think to buy it. ",
+        answer:　
+        "この服がお洒落（・しゃれ）ですね。買おうと思います。",
+      },
+      {
+        id: 60,
+        question:
+        "[No60]. [Translate in Jap] : Did you already read the book ?. -- Not yet, i think to read it this weekend. ",
+        answer:　
+        "この本はもう読みましたか・いいえ、まだ読んでいません。今週、読もうと思っています。",
+      },
+      {
+        id: 61,
+        question:
+          "[No61]. Traduis la phrase suivante : L'élève a été placé en retenue pour avoir perturbé la classe.",
+        answer:
+          "The student was given detention for disrupting the class.",
+      },
+      {
+        id: 62,
+        question:
+          "[No62]. Traduis la phrase suivante : Si vous n'arrivez pas à dormir, retournez vous de l'autre côté et réessayez.",
+        answer:
+          "If you can't sleep turn over onto your other side and try again",
+      },
+      {
+        id: 63,
+        question:
+          "[No63]. Traduis la phrase suivante : Pit se baissa pour donner une fleur à la petite fille.",
+        answer:
+          "Pit reached down to give the little girl a flower.",
+      },
+      {
+        id: 64,
+        question:
+          "[No64]. Traduis la phrase suivante : Daniel a (re)tiré une épine de la patte du lion.",
+        answer:
+          "Daniel pulled a thorn from the lion's paw.",
+      },
+      {
+        id: 65,
+        question:
+          "[No65]. Traduis la phrase suivante : Lorsque les randonneurs se sont réveillés, ils ont trouvé leur tente pleine de mille-pattes et de scarabées.",
+        answer:
+          "When the hikers woke up, they found their tent full of centipedes(centipids) and beetles.",
+      },
+      {
+        id: 66,
+        question:
+          "[No66]. Traduis la phrase suivante : Le language d'Alif offense beaucoup de gens, mais il reste inconscient.",
+        answer:
+          "Alif's language offends many people, but he remains oblivious.",
+      },
+      {
+        id: 67,
+        question:
+          "[No67]. Traduis la phrase suivante : Quand Gary s'est approche doucement et m'a tapé sur l'épaule, j'ai sauté.",
+        answer:
+          "When Gary crept up(verb: creep up) and tapped me on the shoulder, i jumped.",
+      },
+      {
+        id: 68,
+        question:
+          "[No68]. Traduis la phrase suivante : Le lion s'approcha tout doucement sur le zebra inconscient et bondi.",
+        answer:
+          "The lion crept up on the oblivious zebra(sibra) and pounced.",
+      },
+      {
+        id: 69,
+        question:
+          "[No69]. Traduis la phrase suivante : Le lion s'approcha tout doucement sur le zebra inconscient et bondi.",
+        answer:
+          "The lion crept up on the oblivious zebra(sibra) and pounced.",
+      },
+      {
+        id: 70,
+        question:
+          "[No70]. Traduis la phrase suivante : Je me suis accroupis pour me cacher derrière le muret(petit mur).",
+        answer:
+          "I crouched down to hide behind the low wall.",      
+      },
+      {
+        id: 71,
+        question:
+        "[No71]. [Translate in Jap] : In my planning/schedule i'll go with my family to the beach. ",
+        answer:　
+        "家族と海に行く予定（・よてい）。",
+      },
+      {
+        id: 72,
+        question:
+        "[No71]. [Translate in Jap] : In my planning i'll have a lunch at 12pm. ",
+        answer:　
+        "12時に昼ご飯の予定です。",
+      },
+      {
+        id: 73,
+        question:
+        "[No73]. [Translate in Jap] : It's better to stop smoking as soon as possible. ",
+        answer:　
+        "早くたばこを吸わない（・すう）方がいいですよ。",
+      },
+      {
+        id: 74,
+        question:
+        "[No74]. [Translate in Jap] : You should eat more fruits during summer. ",
+        answer:　
+        "夏の時はもっと果物（・くだもの）を食べた方がいいですよ。",
+      },
+      {
+        id: 75,
+        question:
+        "[No75]. [Translate in Jap] : You'll be probably able to see cleary the bridge tonight. ",
+        answer:　
+        "今夜は橋（・はし）がはっきり見えるでしょう。",
+      },
+      {
+        id: 76,
+        question:
+        "[No76]. [Translate in Jap] : Since we may be late, let's hurry up ! ",
+        answer:　
+        "遅れるかもしれませんから、急ぎましょう。",
+      },
+      {
+        id: 77,
+        question:
+        "[No77]. [Translate in Jap] : I may succeed, so i'll take part on the exam ! ",
+        answer:　
+        "合格（・ごうかく）するかもしれませんから、試験（・しけん）を受けます（うける）。",
+      },
+      {
+        id: 78,
+        question:
+        "[No78]. [Translate in Jap] : Since the test tomorrow will may be difficult, you should study.  ",
+        answer:　
+        "明日のテストは難しいかもしれませんから、勉強した方がいいですよ。",
+      },
+      {
+        id: 79,
+        question:
+        "[No79]. [Translate in Jap] : Don't buy chinese things !  ",
+        answer:　
+        "中国の物を買うな！",
+      },
+      {
+        id: 80,
+        question:
+        "[No80]. [Translate in Jap] : Take out your money !  ",
+        answer:　
+        "金（・かね）を出せ（・だす）！",
+      },
  
   ];
 
