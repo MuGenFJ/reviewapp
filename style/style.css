@@ -30,6 +30,11 @@ body{
     position: relative;
 }
 
+.question-number{
+    color: orangered;
+    text-decoration: underline;
+}
+
 .btns{
     margin: 0 auto;
     background: none;

@@ -683,9 +683,177 @@ const reviewArray = [
       {
         id: 96,
         question:
-        "[Translate in Jap] : Could you deaw it exactly as the picture ?",
+        "[Translate in Jap] : Could you drew it exactly as the picture ?",
         answer:　
         "えのとおりに書けましたか 。",
+      },
+      {
+        id: 97,
+        question:
+        "[Translate in Jap] : I brush my teeth after eating breakfast",
+        answer:　
+        "朝ごはんを食べた後で歯（・は）を磨きます（・みがく）。",
+      },
+      {
+        id: 98,
+        question:
+        "[Translate in Jap] : I brush my teeth after eating breakfast",
+        answer:　
+        "朝ごはんを食べた後で歯（・は）を磨きます（・みがく）。",
+      },
+      {
+        id: 99,
+        question:
+        "[Translate in Jap] : After i finished my homework i'll go meet my friends.",
+        answer:　
+        "仕事を終わった後で友達に会います。",
+      },
+      {
+        id: 100,
+        question:
+        "[Translate in Jap] : The exam was difficult, just as the teacher said would be.",
+        answer:　
+        "先生が言ったとおりに、試験（・しけん）が難しかった（・むずかしい）。",
+      },
+      {
+        id: 101,
+        question:
+        "[Coding] : What is an element ?",
+        answer:　
+        "Is somthing like div etc ...",
+      },
+      {
+        id: 102,
+        question:
+        "[Coding] : What mean -this- ?",
+        answer:　
+        "This will give us the current object that excuting the function !",
+      },
+      {
+        id: 103,
+        question:
+        "[Coding] : What is the method -toFixed(2)- do.",
+        answer:　
+        "Rounding the number to keep only two decimals according to this case.",
+      },
+      {
+        id: 104,
+        question:
+        "[Coding] : What is the method push() do.",
+        answer:　
+        "Is for Add a new item into an array.",
+      },
+      {
+        id: 105,
+        question:
+        "[Coding] : What does the method Math.floor() & Math.random() do ?",
+        answer:　
+        "Math.random will give us a decimal number between 0,00 & 0,99 and we use Math.floor to convert the number into an integer(nombre sans decimal). Ex: Math.floor(Math.random()). Now we when we combine the both we'll get a random number between 0 & 1.",
+      },
+      {
+        id: 106,
+        question:
+        "[Coding] : What does the method indexof() do ?",
+        answer:　
+        "We can obtain the right position/index of an item/element in an array.",
+      },
+      {
+        id: 107,
+        question:
+        "[Coding] : What does the method splice() do ?",
+        answer:　
+        "It adds/removes items to/from an array, and returns the removed item(s).Ex : splice(2, 1, 'Lemon', 'Kiwi'). We say here at position 2 from our array fruits, add Lemon & Kiwi and remove just 1 item.",
+      },
+      {
+        id: 108,
+        question:
+        "[Coding] : Which method could we use for transform our string, boolean etc into an array ?",
+        answer:　
+        "We can use the function/method -Array.from()",
+      },
+      {
+        id: 109,
+        question:
+        "[Coding] : What is a spreadOperator or alse named ...Operator ?",
+        answer:　
+        "He spread all the individual item contained in an array for instance so that we can grasp it.",
+      },
+      {
+        id: 110,
+        question:
+        "[Coding] : Which function can we use to make a delay ?",
+        answer:　
+        "setTimeout()",
+      },
+      {
+        id: 111,
+        question:
+          "Traduis la phrase suivante : Morceaux de papiers",
+        answer:
+          "Bits of paper ",      
+      },
+      {
+        id: 112,
+        question:
+          "Traduis la phrase suivante : Tim a tiré le couvercle du récipient.",
+        answer:
+          "Tim pulled the lid of the container",      
+      },
+      {
+        id: 113,
+        question:
+          "Traduis la phrase suivante : Il a tendu sa main au chien pour qu'il la sente",
+        answer:
+          "He held out(pastForm)(verb: hold out) his hand for the dog to sniff it",      
+      },
+      {
+        id: 114,
+        question:
+          "Traduis la phrase suivante : Il riait si fort que des larmes coulaient sur ses joues.",
+        answer:
+          "He was laughing so hard that tears were rolling down his cheeks.",      
+      },
+      {
+        id: 115,
+        question:
+          "Traduis la phrase suivante : Si vous passez dix minutes par jour à apprendre une langue étrangère, vous en recoltez bientôt les benefices.",
+        answer:
+          "If you spend ten minutes a day learning a foreign language, you'll soon reap(riip) the benefits.",      
+      },
+      {
+        id: 116,
+        question:
+          "Traduis la phrase suivante : Oliver a seme le doute dans l'esprit de Rachel.",
+        answer:
+          "Oliver sowed(seuwt) doubt in Rachel's mind.",      
+      },
+      {
+        id: 117,
+        question:
+          "Traduis la phrase suivante : Les fauteurs de troubles ont semé le mécontentement parmi les villageois.",
+        answer:
+          "The troublemakers sowed discontent among the villagers.",      
+      },
+      {
+        id: 118,
+        question:
+          "Traduis la phrase suivante : Tu recoltes ce que tu seme.",
+        answer:
+          "You reap what you sow.",      
+      },
+      {
+        id: 119,
+        question:
+          "Traduis la phrase suivante : J'ai mauvaise conscience d'avoir abime le livre de la biblio.",
+        answer:
+          "My conscience(konshens) is bothering me about damaging that library book.",      
+      },
+      {
+        id: 120,
+        question:
+          "Traduis la phrase suivante : Si vous avez fait de votre mieux, c'est tout ce qui compte.",
+        answer:
+          "If you've done your best, then is all that matters.",      
       },
    
   ];
