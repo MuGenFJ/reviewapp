@@ -15,356 +15,356 @@
 
 // ReviewQuestions
 const reviewArray = [
-    {
-      id: 1,
-      question:
-        "What is the Kanji of to carry ?",
-      answer:
-        "持つ",
-    },
-    {
-      id: 2,
-      question:
-        "[Translate in Jap] : This kid looks like Will Smith daughter isn't it ?",
-      answer:
-        "あの子はウィルスミスさんの娘・(むすめ)さんみたいだね.",
-    },
-    {
-      id: 3,
-      question:
-        "[Translate in Jap] : If you often study you will improve your Japanese.",
-      answer:
-        "よく勉強すれば日本語が上手になりますよ.",
-    },
-    {
-      id: 4,
-      question:
-        "What is the Kanji of umbrella ?",
-      answer:
-        "傘",
-    },
-    {
-      id: 5,
-      question:
-        "[Translate in Jap] : During Summer Luxembourg will become chiller then Japan.",
-      answer:
-        "夏の時、ルクセンブルクは日本より涼しくなります。",
-    },
-    {
-      id: 6,
-      question:
-      "[Translate in Jap] : Tomorrow we planned to do a study trip with the pupil students.",
-      answer:
-        "明日生徒・(せいと) と見学会・(けんがくかい)　をするよていでした。",
-    },
-    {
-      id: 7,
-      question:
-        "What is the Kanji of older sister & older brother ?",
-      answer:
-        "姉・お兄さん",
-    },
-    {
-      id: 8,
-      question:
-        "What is the Kanji of little brother & little sister ?",
-      answer:
-        "弟・妹",
-    },
-    {
-        id: 9,
-        question:
-        "[Translate in Jap] : Did you already eat something? - No, but i'm on my way to eat something now.",
-        answer:
-          "もう何か食べましたか。 - いいえ、まだ食べていませんですが、今何かたべるところです。",
-      },
-    {
-        id: 10,
-        question:
-        "[Translate in Jap] : What are you searching exactly ?",
-        answer:
-          "せいかくに何を探して・(さがす)いるんですか。",
-      },
-    {
-        id: 11,
-        question:
-        "[Translate in Jap] : [I know this person taking classes] : Since when did you take Spanish classes ? - I started 1year ago!",
-        answer:
-          "いつからスペイン語を習っているんですか。- 一年前に始めました！",
-      },
-    {
-        id: 12,
-        question:
-          "What is the Kanji of spring, fall, winter and summer ?",
-        answer:
-          "春・秋・冬・夏",
-      },
-    {
-        id: 13,
-        question:
-          "What is the Kanji of bicycle ?",
-        answer:
-          "自転車",
-      },
-      {
-        id: 14,
-        question:
-        "[Translate in Jap] : I can't do this because i'm busy tomorrow morning. ",
-        answer:
-          "明日の朝は忙しくてできません。",
-      },
-      {
-        id: 15,
-        question:
-        "[Translate in Jap] : I can't do this because i'm busy tomorrow morning. ",
-        answer:
-          "明日の朝は忙しくてできません。",
-      },
-      {
-        id: 16,
-        question:
-        "[Translate in Jap] : Are you able to listen music inside your house ? ",
-        answer:
-          "家の中で音楽を聞こえられますか",
-      },
-      {
-        id: 17,
-        question:
-        "[Translate in Jap] : I'm just able to speak 3 foreign languages fluently. ",
-        answer:
-          "三つの外国語しかペラペラ話せません。",
-      },
-      {
-        id: 18,
-        question:
-          "What is the Kanji of begin & finish ?",
-        answer:
-          "始める・終わる",
-      },
-      {
-        id: 19,
-        question:
-          "What is the Kanji of water, fire, wind & earth ?",
-        answer:
-          "水・火・風・地",
-      },
-      {
-        id: 20,
-        question:
-        "[Translate in Jap] : There is a new Flower Shop who opened near the Post Office. ",
-        answer:
-          "郵便局の近くに新しい花屋開いていました。",
-      },
-      {
-        id: 21,
-        question:
-        "[Translate in Jap] : I can eat Sushis but i cannot eat porc meat. ",
-        answer:
-          "寿司を食べられますが豚肉は食べられません。",
-      },
-      {
-        id: 22,
-        question:
-        "[Translate in Jap] : In the company i'm working for, there is a fridge and in my house also. ",
-        answer:
-          "僕の働いている会社に冷蔵庫があります。家にもあります。",
-      },
-      {
-        id: 23,
-        question:
-        "[Translate in Jap] : In Osaka the food is delicious, the town is everytime busy and there's a lot of people. ",
-        answer:
-          "大阪は食べ物が美味しいし、町がいつも賑やかだし、人が多いです。",
-      },
-      {
-        id: 24,
-        question:
-        "[Translate in Jap] : This woman is beautiful, speak well english and she's good at cooking. ",
-        answer:
-          "あの女は綺麗だし、英語もできるしそれに料理を作るのは上手です。",
-      },
-      {
-        id: 25,
-        question:
-        "[Translate in Jap] : Why do you like Kyoto ? Um... Kyoto is close to Osaka, there's a lot of thing to watch and people are kind. ",
-        answer:
-          "どうして京都が好きですか。・えっと、京都は大阪から近いし、見えることもたくさんあるし、　　それに人も親切ですから。",
-      },
-      {
-        id: 26,
-        question:
-          "What is the Kanji of convenient & inconvenience ?",
-        answer:
-          "便利・不便",
-      },
-      {
-        id: 27,
-        question:
-          "What is the Kanji of world/society ?",
-        answer:
-          "世界",
-      },
-      {
-        id: 28,
-        question:
-          "What is the Kanji of ride/get on ?",
-        answer:
-          "乗る",
-      },
-      {
-        id: 29,
-        question:
-          "What is the Kanji of work, fire and meal (they have all one kanji in common) ?",
-        answer:
-          "仕事・火事・食事",
-      },
-      {
-        id: 30,
-        question:
-          "What is the Kanji of short and little ?",
-        answer:
-          "低い・小さい",
-      },
-      {
-        id: 31,
-        question:
-          "Traduis la phrase suivante : Le politicien a mis sa carriere en danger en ayant une affaire avec cette femme.",
-        answer:
-          "The politician took his career in jeopardy by having an affair with this woman.",
-      },
-      {
-        id: 32,
-        question:
-          "Traduis la phrase suivante : Tom a remis la lettre à sa mère que sa tante lui avait donnée.",
-        answer:
-          "Tom handed over the letter that his aunt gaved him to his mother.",
-      },
-      {
-        id: 33,
-        question:
-          "Traduis la phrase suivante : Si tu éternues sans mettre la main devant la bouche, tes germes seront projetés dans l'air.",
-        answer:
-          "If you sneeze without covering your mouth, your germs may become airborne.",
-      },
-      {
-        id: 34,
-        question:
-          "Traduis la phrase suivante : Le fleuriste locale a fourni toutes les fleurs gratuitement.",
-        answer:
-          "The local florist supplied all the flowers for free.",
-      },
-      {
-        id: 35,
-        question:
-          "Traduis la phrase suivante : Earl a achete une caisse d'orange au marche.",
-        answer:
-          "Earl bought a crate(kreit) of oranges at the market.",
-      },
-      {
-        id: 36,
-        question:
-          "Traduis la phrase suivante : Earl a achete une caisse d'orange au marche.",
-        answer:
-          "Earl bought a crate(kreit) of oranges at the market.",
-      },
-      {
-        id: 37,
-        question:
-          "Traduis la phrase suivante : L'avion a accelere sur la piste et s'est envole dans les airs.",
-        answer:
-          "The aircraft sped down the runway and soared(sort*s'envoler) into the air.",
-      },
-      {
-        id: 38,
-        question:
-          "Traduis la phrase suivante : Il y a eu beaucoup de plaintes au sujet de la série télévisée, qui contenait des niveaux de violence sans précédent.",
-        answer:
-          "There were a lot of complaints about the TV drama, which contained unprecedented levels of violence.",
-      },
-      {
-        id: 39,
-        question:
-          "Traduis la phrase suivante : La police a dévié la circulation le temps de remettre la route en état suite à l'accident.",
-        answer:
-          "Police diverted(daiverted) traffic while they cleared the road after the accident.",
-      },
-      {
-        id: 40,
-        question:
-          "Traduis la phrase suivante : La police a dévié la circulation le temps de remettre la route en état suite à l'accident.",
-        answer:
-          "Police diverted(daiverted-dévier) traffic while they cleared the road after the accident.",
-      },
-      {
-        id: 41,
-        question:
-          "Traduis la phrase suivante : Microsoft a vu sa part de marché diminuer avec la popularité croissante d'Appel.",
-        answer:
-          "Microsoft has seen its market share decrease with Appel's increasing popularity.",
-      },
-      {
-        id: 42,
-        question:
-          "Traduis la phrase suivante : Son attitude domoralise le moral au reste d'entre nous.",
-        answer:
-          "His attitude is dragging the rest of us down.",
-      },
-      {
-        id: 43,
-        question:
-          "Traduis la phrase suivante : J'ai commencé à descendre la colline et j'ai découvert que je n'avais pas de freins.",
-        answer:
-          "I began to descend(dicent) the hill and discovered i had no brakes.",
-      },
-      {
-        id: 44,
-        question:
-          "Traduis la phrase suivante : Tim a saisi la rampe et a commence a monter les escaliers.",
-        answer:
-          "Tim grasped the rail and starded up the stairs.",
-      },
-      {
-        id: 45,
-        question:
-          "Traduis la phrase suivante : C'est indéniable maintenant que la glace polaire se rétrécit chaque année.",
-        answer:
-          "It's undeniable(ande-nai-abel) now that polar ice is shrinking every year.",
-      },
-      {
-        id: 46,
-        question:
-          "Traduis la phrase suivante : Lorsque le policier s'est rendu compte qu'il ne pouvait pas gérer seul la situation, il a appelé assistance.",
-        answer:
-          "When the policemann realized he couldn't handle the situation alone, he called for backup.",
-      },
-      {
-        id: 47,
-        question:
-          "Traduis la phrase suivante : La clôture/barrière était attachée aux poteaux avec du fil electrique.",
-        answer:
-          "The fence was attached to the posts with wire.",
-      },
-      {
-        id: 48,
-        question:
-          "Traduis la phrase suivante : Le suspect a évité la police pendant trois jours.",
-        answer:
-          "The suspect evaded(iweided) the police for three days.",
-      },
-      {
-        id: 49,
-        question:
-          "Traduis la phrase suivante : La piqûre d'abeille a été une surprise totale pour Susan, qui ne l'avait pas remarqué ramper à l'intérieur de sa chemise.",
-        answer:
-          "The bee's sting came as a complete surprise to Susan, who hadn't noticed it crawl inside her shirt.",
-      },
-      {
-        id: 50,
-        question:
-          "Traduis la phrase suivante : Le boxeur a frappé son adversaire.",
-        answer:
-          "The boxer struck (verb:strike) his opponent.",
-      },
+    // {
+    //   id: 1,
+    //   question:
+    //     "What is the Kanji of to carry ?",
+    //   answer:
+    //     "持つ",
+    // },
+    // {
+    //   id: 2,
+    //   question:
+    //     "[Translate in Jap] : This kid looks like Will Smith daughter isn't it ?",
+    //   answer:
+    //     "あの子はウィルスミスさんの娘・(むすめ)さんみたいだね.",
+    // },
+    // {
+    //   id: 3,
+    //   question:
+    //     "[Translate in Jap] : If you often study you will improve your Japanese.",
+    //   answer:
+    //     "よく勉強すれば日本語が上手になりますよ.",
+    // },
+    // {
+    //   id: 4,
+    //   question:
+    //     "What is the Kanji of umbrella ?",
+    //   answer:
+    //     "傘",
+    // },
+    // {
+    //   id: 5,
+    //   question:
+    //     "[Translate in Jap] : During Summer Luxembourg will become chiller then Japan.",
+    //   answer:
+    //     "夏の時、ルクセンブルクは日本より涼しくなります。",
+    // },
+    // {
+    //   id: 6,
+    //   question:
+    //   "[Translate in Jap] : Tomorrow we planned to do a study trip with the pupil students.",
+    //   answer:
+    //     "明日生徒・(せいと) と見学会・(けんがくかい)　をするよていでした。",
+    // },
+    // {
+    //   id: 7,
+    //   question:
+    //     "What is the Kanji of older sister & older brother ?",
+    //   answer:
+    //     "姉・お兄さん",
+    // },
+    // {
+    //   id: 8,
+    //   question:
+    //     "What is the Kanji of little brother & little sister ?",
+    //   answer:
+    //     "弟・妹",
+    // },
+    // {
+    //     id: 9,
+    //     question:
+    //     "[Translate in Jap] : Did you already eat something? - No, but i'm on my way to eat something now.",
+    //     answer:
+    //       "もう何か食べましたか。 - いいえ、まだ食べていませんですが、今何かたべるところです。",
+    //   },
+    // {
+    //     id: 10,
+    //     question:
+    //     "[Translate in Jap] : What are you searching exactly ?",
+    //     answer:
+    //       "せいかくに何を探して・(さがす)いるんですか。",
+    //   },
+    // {
+    //     id: 11,
+    //     question:
+    //     "[Translate in Jap] : [I know this person taking classes] : Since when did you take Spanish classes ? - I started 1year ago!",
+    //     answer:
+    //       "いつからスペイン語を習っているんですか。- 一年前に始めました！",
+    //   },
+    // {
+    //     id: 12,
+    //     question:
+    //       "What is the Kanji of spring, fall, winter and summer ?",
+    //     answer:
+    //       "春・秋・冬・夏",
+    //   },
+    // {
+    //     id: 13,
+    //     question:
+    //       "What is the Kanji of bicycle ?",
+    //     answer:
+    //       "自転車",
+    //   },
+    //   {
+    //     id: 14,
+    //     question:
+    //     "[Translate in Jap] : I can't do this because i'm busy tomorrow morning. ",
+    //     answer:
+    //       "明日の朝は忙しくてできません。",
+    //   },
+    //   {
+    //     id: 15,
+    //     question:
+    //     "[Translate in Jap] : I can't do this because i'm busy tomorrow morning. ",
+    //     answer:
+    //       "明日の朝は忙しくてできません。",
+    //   },
+    //   {
+    //     id: 16,
+    //     question:
+    //     "[Translate in Jap] : Are you able to listen music inside your house ? ",
+    //     answer:
+    //       "家の中で音楽を聞こえられますか",
+    //   },
+    //   {
+    //     id: 17,
+    //     question:
+    //     "[Translate in Jap] : I'm just able to speak 3 foreign languages fluently. ",
+    //     answer:
+    //       "三つの外国語しかペラペラ話せません。",
+    //   },
+    //   {
+    //     id: 18,
+    //     question:
+    //       "What is the Kanji of begin & finish ?",
+    //     answer:
+    //       "始める・終わる",
+    //   },
+    //   {
+    //     id: 19,
+    //     question:
+    //       "What is the Kanji of water, fire, wind & earth ?",
+    //     answer:
+    //       "水・火・風・地",
+    //   },
+    //   {
+    //     id: 20,
+    //     question:
+    //     "[Translate in Jap] : There is a new Flower Shop who opened near the Post Office. ",
+    //     answer:
+    //       "郵便局の近くに新しい花屋開いていました。",
+    //   },
+    //   {
+    //     id: 21,
+    //     question:
+    //     "[Translate in Jap] : I can eat Sushis but i cannot eat porc meat. ",
+    //     answer:
+    //       "寿司を食べられますが豚肉は食べられません。",
+    //   },
+    //   {
+    //     id: 22,
+    //     question:
+    //     "[Translate in Jap] : In the company i'm working for, there is a fridge and in my house also. ",
+    //     answer:
+    //       "僕の働いている会社に冷蔵庫があります。家にもあります。",
+    //   },
+    //   {
+    //     id: 23,
+    //     question:
+    //     "[Translate in Jap] : In Osaka the food is delicious, the town is everytime busy and there's a lot of people. ",
+    //     answer:
+    //       "大阪は食べ物が美味しいし、町がいつも賑やかだし、人が多いです。",
+    //   },
+    //   {
+    //     id: 24,
+    //     question:
+    //     "[Translate in Jap] : This woman is beautiful, speak well english and she's good at cooking. ",
+    //     answer:
+    //       "あの女は綺麗だし、英語もできるしそれに料理を作るのは上手です。",
+    //   },
+    //   {
+    //     id: 25,
+    //     question:
+    //     "[Translate in Jap] : Why do you like Kyoto ? Um... Kyoto is close to Osaka, there's a lot of thing to watch and people are kind. ",
+    //     answer:
+    //       "どうして京都が好きですか。・えっと、京都は大阪から近いし、見えることもたくさんあるし、　　それに人も親切ですから。",
+    //   },
+    //   {
+    //     id: 26,
+    //     question:
+    //       "What is the Kanji of convenient & inconvenience ?",
+    //     answer:
+    //       "便利・不便",
+    //   },
+    //   {
+    //     id: 27,
+    //     question:
+    //       "What is the Kanji of world/society ?",
+    //     answer:
+    //       "世界",
+    //   },
+    //   {
+    //     id: 28,
+    //     question:
+    //       "What is the Kanji of ride/get on ?",
+    //     answer:
+    //       "乗る",
+    //   },
+    //   {
+    //     id: 29,
+    //     question:
+    //       "What is the Kanji of work, fire and meal (they have all one kanji in common) ?",
+    //     answer:
+    //       "仕事・火事・食事",
+    //   },
+    //   {
+    //     id: 30,
+    //     question:
+    //       "What is the Kanji of short and little ?",
+    //     answer:
+    //       "低い・小さい",
+    //   },
+    //   {
+    //     id: 31,
+    //     question:
+    //       "Traduis la phrase suivante : Le politicien a mis sa carriere en danger en ayant une affaire avec cette femme.",
+    //     answer:
+    //       "The politician took his career in jeopardy by having an affair with this woman.",
+    //   },
+    //   {
+    //     id: 32,
+    //     question:
+    //       "Traduis la phrase suivante : Tom a remis la lettre à sa mère que sa tante lui avait donnée.",
+    //     answer:
+    //       "Tom handed over the letter that his aunt gaved him to his mother.",
+    //   },
+    //   {
+    //     id: 33,
+    //     question:
+    //       "Traduis la phrase suivante : Si tu éternues sans mettre la main devant la bouche, tes germes seront projetés dans l'air.",
+    //     answer:
+    //       "If you sneeze without covering your mouth, your germs may become airborne.",
+    //   },
+    //   {
+    //     id: 34,
+    //     question:
+    //       "Traduis la phrase suivante : Le fleuriste locale a fourni toutes les fleurs gratuitement.",
+    //     answer:
+    //       "The local florist supplied all the flowers for free.",
+    //   },
+    //   {
+    //     id: 35,
+    //     question:
+    //       "Traduis la phrase suivante : Earl a achete une caisse d'orange au marche.",
+    //     answer:
+    //       "Earl bought a crate(kreit) of oranges at the market.",
+    //   },
+    //   {
+    //     id: 36,
+    //     question:
+    //       "Traduis la phrase suivante : Earl a achete une caisse d'orange au marche.",
+    //     answer:
+    //       "Earl bought a crate(kreit) of oranges at the market.",
+    //   },
+    //   {
+    //     id: 37,
+    //     question:
+    //       "Traduis la phrase suivante : L'avion a accelere sur la piste et s'est envole dans les airs.",
+    //     answer:
+    //       "The aircraft sped down the runway and soared(sort*s'envoler) into the air.",
+    //   },
+    //   {
+    //     id: 38,
+    //     question:
+    //       "Traduis la phrase suivante : Il y a eu beaucoup de plaintes au sujet de la série télévisée, qui contenait des niveaux de violence sans précédent.",
+    //     answer:
+    //       "There were a lot of complaints about the TV drama, which contained unprecedented levels of violence.",
+    //   },
+    //   {
+    //     id: 39,
+    //     question:
+    //       "Traduis la phrase suivante : La police a dévié la circulation le temps de remettre la route en état suite à l'accident.",
+    //     answer:
+    //       "Police diverted(daiverted) traffic while they cleared the road after the accident.",
+    //   },
+    //   {
+    //     id: 40,
+    //     question:
+    //       "Traduis la phrase suivante : La police a dévié la circulation le temps de remettre la route en état suite à l'accident.",
+    //     answer:
+    //       "Police diverted(daiverted-dévier) traffic while they cleared the road after the accident.",
+    //   },
+    //   {
+    //     id: 41,
+    //     question:
+    //       "Traduis la phrase suivante : Microsoft a vu sa part de marché diminuer avec la popularité croissante d'Appel.",
+    //     answer:
+    //       "Microsoft has seen its market share decrease with Appel's increasing popularity.",
+    //   },
+    //   {
+    //     id: 42,
+    //     question:
+    //       "Traduis la phrase suivante : Son attitude domoralise le moral au reste d'entre nous.",
+    //     answer:
+    //       "His attitude is dragging the rest of us down.",
+    //   },
+    //   {
+    //     id: 43,
+    //     question:
+    //       "Traduis la phrase suivante : J'ai commencé à descendre la colline et j'ai découvert que je n'avais pas de freins.",
+    //     answer:
+    //       "I began to descend(dicent) the hill and discovered i had no brakes.",
+    //   },
+    //   {
+    //     id: 44,
+    //     question:
+    //       "Traduis la phrase suivante : Tim a saisi la rampe et a commence a monter les escaliers.",
+    //     answer:
+    //       "Tim grasped the rail and starded up the stairs.",
+    //   },
+    //   {
+    //     id: 45,
+    //     question:
+    //       "Traduis la phrase suivante : C'est indéniable maintenant que la glace polaire se rétrécit chaque année.",
+    //     answer:
+    //       "It's undeniable(ande-nai-abel) now that polar ice is shrinking every year.",
+    //   },
+    //   {
+    //     id: 46,
+    //     question:
+    //       "Traduis la phrase suivante : Lorsque le policier s'est rendu compte qu'il ne pouvait pas gérer seul la situation, il a appelé assistance.",
+    //     answer:
+    //       "When the policemann realized he couldn't handle the situation alone, he called for backup.",
+    //   },
+    //   {
+    //     id: 47,
+    //     question:
+    //       "Traduis la phrase suivante : La clôture/barrière était attachée aux poteaux avec du fil electrique.",
+    //     answer:
+    //       "The fence was attached to the posts with wire.",
+    //   },
+    //   {
+    //     id: 48,
+    //     question:
+    //       "Traduis la phrase suivante : Le suspect a évité la police pendant trois jours.",
+    //     answer:
+    //       "The suspect evaded(iweided) the police for three days.",
+    //   },
+    //   {
+    //     id: 49,
+    //     question:
+    //       "Traduis la phrase suivante : La piqûre d'abeille a été une surprise totale pour Susan, qui ne l'avait pas remarqué ramper à l'intérieur de sa chemise.",
+    //     answer:
+    //       "The bee's sting came as a complete surprise to Susan, who hadn't noticed it crawl inside her shirt.",
+    //   },
+    //   {
+    //     id: 50,
+    //     question:
+    //       "Traduis la phrase suivante : Le boxeur a frappé son adversaire.",
+    //     answer:
+    //       "The boxer struck (verb:strike) his opponent.",
+    //   },
       {
         id: 51,
         question:
@@ -592,9 +592,9 @@ const reviewArray = [
       {
         id: 83,
         question:
-          "Traduis la phrase suivante : La respiration du pation est tres faible ?",
+          "Traduis la phrase suivante : La respiration du patient est tres faible ?",
         answer:
-          "The patient's breathing is very faint ?",      
+          "The patient's breathing is very faint.",      
       },
       {
         id: 84,
@@ -854,6 +854,293 @@ const reviewArray = [
           "Traduis la phrase suivante : Si vous avez fait de votre mieux, c'est tout ce qui compte.",
         answer:
           "If you've done your best, then is all that matters.",      
+      },
+      {
+        id: 121,
+        question:
+        "[Translate in Jap] : I drink cofee without sugar.",
+        answer:　
+        "砂糖（・さとう）を入れないで、コーヒーを飲みます。",
+      },
+      {
+        id: 122,
+        question:
+        "[Translate in Jap] : If is autumn/fall, the colors of the leaves change.",
+        answer:　
+        "秋になれば木の葉（・は）の色（いろ）が変わります（かわる）。",
+      },
+      {
+        id: 123,
+        question:
+        "[Translate in Jap] : If you change the battery, this car will probably move.",
+        answer:　
+        "バッテリーを変えれば（・かえる-to change）、この車は動くでしょう。",
+      },
+      {
+        id: 123,
+        question:
+        "[Translate in Jap] : If you go to Japan in winter, you should buy an umbrella.",
+        answer:　
+        "冬、日本へ行くなら傘を買ったほうがいいですよ。",
+      },
+      {
+        id: 124,
+        question:
+        "[Translate in Jap] : The fresher/newest the vegetables, the better is.",
+        answer:　
+        "野菜（・やさい）は新しければ新しいほど美味しい（・おいしい）です。",
+      },
+      {
+        id: 125,
+        question:
+        "[Translate in Jap] : The quieter the cat, the better.",
+        answer:　
+        "猫は静か（しずか）なら静かなほどいいです。",
+      },
+      {
+        id: 126,
+        question:
+        "[Translate in Jap] : For Hot Springs, Odaiba is really good.",
+        answer:　
+        "温泉（・おんせん）ならお台場（おだいば）がすごくいいですよ。",
+      },
+      {
+        id: 127,
+        question:
+        "[Translate in Jap] : Where is Mr. Yamada ? Mr. Yamada, is at the conference room.",
+        answer:　
+        "山田さんはどこですか。　山田さんなら、会議室(かいぎしつ）ですよ。",
+      },
+      {
+        id: 128,
+        question:
+        "[Translate in Jap] : When should I climb Mt. Fuji ?",
+        answer:　
+        "いつから富士山に登れば（・のぼる）いいですか。",
+      },
+      {
+        id: 129,
+        question:
+        "[Translate in Jap] : For running faster, I practice every day.",
+        answer:　
+        "早く走れる（はしれる）ように毎日練習（・れんしゅう）しています。",
+      },
+      {
+        id: 130,
+        question:
+        "[Translate in Jap36] : PCs became cheaper, so many people became capable to buy them.",
+        answer:　
+        "パソコンは安くなりましたから、たくさんの人が買えるようになりました。",
+      },
+      {
+        id: 131,
+        question:
+        "[Coding] : What does this function means ? return window.locaction.assign(newpage.html).",
+        answer:　
+        "It means that when we clik on the button which have this function we will be redirected to the newpage.html.",
+      },
+      {
+        id: 132,
+        question:
+        "[Coding] : How to add with javascript a background color to my body ?",
+        answer:　
+        "body.style.backgroundColor = blue;",
+      },
+      {
+        id: 133,
+        question:
+        "[Coding] : How can we select & change the text color of a placeholder in an input in CSS ?",
+        answer:　
+        "input::placeholder { color : red }",
+      },
+      {
+        id: 134,
+        question:
+        "[Coding] : What does the preventDefault() function do ?",
+        answer:　
+        "The preventDefault() method, cancels the event if it is cancelable, meaning that the default action that belongs to the event will not occur.",
+      },
+      {
+        id: 135,
+        question:
+        "[Coding] : What does localStorage.setItem() do ?",
+        answer:　
+        "setItem is the method that allows us to store a data into the localStorage. It has a (key, value) as params. Have to know that localStorage can just store strings.",
+      },
+      {
+        id: 136,
+        question:
+        "[Coding] : What would be the properties/method here in that case ? myObject{name: John, age: 28} ?",
+        answer:　
+        "myObject.name & myObject.age",
+      },
+      {
+        id: 137,
+        question:
+        "[Coding] :  Explain: 1. var= user{name: John, age: 28} localStorage.setItem(id, JSON.stringify(user)); 2. JSON.parse(localstorage.getItem(user))",
+        answer:　
+        "1. We have an object named user and we want to store it, we setItem with a key of id and a value of JSON... but since we know that localStorage can only store strings we convert the user object into a string with method stringify(). 2. Then we convert again this string to an readable object for the localStorage.",
+      },
+      {
+        id: 138,
+        question:
+          "Traduis la phrase suivante : Peu m'importe qu'il fasse beau ou non. Je veux toujours aller à la plage.",
+        answer:
+          "It doesn't matter to me if it's sunny or not. I still want to go to the beach.",      
+      },
+      {
+        id: 139,
+        question:
+          "Traduis la phrase suivante : C'est un homme instruit, mais il n'a pas beaucoup de bon sens.",
+        answer:
+          "He's an educated man, but he doesn't have much common sense.",      
+      },
+      {
+        id: 140,
+        question:
+          "Traduis la phrase suivante : Mason a eu ses amygdales enlevées chirurgicalement quand il était enfant.",
+        answer:
+          "Mason had his tonsils(tansels) surgically(serdjikeli) removed when he was a kid.",      
+      },
+      {
+        id: 141,
+        question:
+          "Traduis la phrase suivante : Aie! Ne touchez pas le bleu sur mon bras. C'est vraiment douloureux.",
+        answer:
+          "Ouch! Don't touch the bruise(bruus) on my arm. It's really sore (sor).",      
+      },
+      {
+        id: 142,
+        question:
+          "Traduis la phrase suivante : Barry a une méchante infection de la gorge.",
+        answer:
+          "Barry's got a nasty throat(tuert) infection.",      
+      },
+      {
+        id: 143,
+        question:
+          "Traduis la phrase suivante : Le médecin a demandé au patient de se déshabiller et de mettre une blouse avant la chirurgie.",
+        answer:
+          "The doctor asked the patient to undress and put on a gown(gawn) before surgery.",      
+      },
+      {
+        id: 144,
+        question:
+          "Traduis la phrase suivante : Brent fit signe à ses fils en s'approchant de la maison.",
+        answer:
+          "Brent waved at his sons as he approached the house.",      
+      },
+      {
+        id: 145,
+        question:
+          "Traduis la phrase suivante : Il m'a dit de compter en arriere/a contre-courant à partir de dix.",
+        answer:
+          "He told me to count backwards from ten.",      
+      },
+      {
+        id: 146,
+        question:
+          "Traduis la phrase suivante : Leur chat peut manger et ronronner en même temps.",
+        answer:
+          "Their cat can eat an purr(peurr) at the same time.",      
+      },
+      {
+        id: 147,
+        question:
+          "Traduis la phrase suivante : Nous étions assis tranquillement là quand tout à coup mon chat s'est levé.",
+        answer:
+          "We were sitting there quietly when suddenly my cat stood up.",      
+      },
+      {
+        id: 148,
+        question:
+          "Traduis la phrase suivante : Cette voiture était une bonne affaire à seulement 5000 $.",
+        answer:
+          "This car was a bargain(bargen) at only 5000$.",      
+      },
+      {
+        id: 149,
+        question:
+          "Traduis la phrase suivante : Les enfants ont jeté des miettes aux oiseaux.",
+        answer:
+          "The children threw crumbs to the birds.",      
+      },
+      {
+        id: 150,
+        question:
+          "Traduis la phrase suivante : Je ne trouve pas le dé à coudre qui était dans ma boîte à couture.",
+        answer:
+          "I can't find the thimble(fimbel) that was in my sewing box.", 
+      },
+      {
+        id: 151,
+        question:
+        "[Translate in Jap] : Baby/infant.",
+        answer:　
+        "パソコンは安くなりましたから、たくさんの人が買えるようになりました.",
+      },
+      {
+        id: 152,
+        question:
+        "[Translate in Jap] : peace of mind(tranquillite de l'esprit).",
+        answer:　
+        "安心（・あんしん）.",
+      },
+      {
+        id: 153,
+        question:
+        "[Translate in Jap] : safe.",
+        answer:　
+        "あんぜん.",
+      },
+      {
+        id: 154,
+        question:
+        "[Translate in Jap] : to apologize.",
+        answer:　
+        "あやまる.",
+      },
+      {
+        id: 155,
+        question:
+        "[Translate in Jap] : program TV.",
+        answer:　
+        "ばんぐみ",
+      },
+      {
+        id: 156,
+        question:
+        "[Translate in Jap] : bell.",
+        answer:　
+        "ベル",
+      },
+      {
+        id: 157,
+        question:
+        "[Translate in Jap] : trade(commerce international).",
+        answer:　
+        "ぼうえき",
+      },
+      {
+        id: 158,
+        question:
+        "[Translate in Jap] : grapes.",
+        answer:　
+        "ぶどう",
+      },
+      {
+        id: 159,
+        question:
+        "[Translate in Jap] : literature.",
+        answer:　
+        "ぶんがく",
+      },
+      {
+        id: 160,
+        question:
+        "[Translate in Jap] : strength/force.",
+        answer:　
+        "ちから",
       },
    
   ];
