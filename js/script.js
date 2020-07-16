@@ -1077,7 +1077,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : Baby/infant.",
         answer:　
-        "パソコンは安くなりましたから、たくさんの人が買えるようになりました.",
+        "あかんぼう.",
       },
       {
         id: 152,
@@ -1141,6 +1141,216 @@ const reviewArray = [
         "[Translate in Jap] : strength/force.",
         answer:　
         "ちから",
+      },
+      {
+        id: 161,
+        question:
+        "[Translate in Jap] : I became unable to read small letters.",
+        answer:　
+        "小さい字が読めなくなりました。",
+      },
+      {
+        id: 162,
+        question:
+        "[Translate in Jap] : I try to not eat sweet things.",
+        answer:　
+        "甘い（・あまい）物を食べないようにしています。",
+      },
+      {
+        id: 163,
+        question:
+        "[Translate in Jap] : Please try to not smoke here at all.",
+        answer:　
+        "ここでは絶対（・ぜったい）に煙草（・たばこ）を吸わない（・すわない）ようにしてください。",
+      },
+      {
+        id: 164,
+        question:
+        "[Translate in Jap] : I was scolded by the manager.",
+        answer:　
+        "私は部長に𠮟れました（・しかれました）。",
+      },
+      {
+        id: 165,
+        question:
+        "[Translate in Jap] : I was scolded by the manager.",
+        answer:　
+        "私は部長に𠮟られました（・しかられました・しかる）。",
+      },
+      {
+        id: 166,
+        question:
+        "[Translate in Jap] : I was stepped on by a woman.",
+        answer:　
+        "私は女の人に足を踏まれました（・ふむ）。",
+      },
+      {
+        id: 167,
+        question:
+        "[Translate in Jap] : The Olympics will be held in Tokyo in 2020.",
+        answer:　
+        "2020年東京でオリンピックが開かれる（・ひらかれる -to be held/to open)。",
+      },
+      {
+        id: 168,
+        question:
+        "[Translate in Jap] : Beer is made from wheat/oat.",
+        answer:　
+        "ビールは麦（・むぎ）から作られます。",
+      },
+      {
+        id: 169,
+        question:
+        "[Translate in Jap] : Beer is made from wheat.",
+        answer:　
+        "ビールは麦（・むぎ）から作られます。(We use から cuz of raw material.",
+      },
+      {
+        id: 170,
+        question:
+        "[Translate in Jap] : This desk was made of wood.",
+        answer:　
+        "この机は木で作られました。(We use で cuz Wood is a material.",
+      },
+      {
+        id: 171,
+        question:
+        "[Translate in Jap] : Geography.",
+        answer:　
+        "ちり",
+      },
+      {
+        id: 172,
+        question:
+        "[Translate in Jap] : Caution.",
+        answer:　
+        "ちゅうい",
+      },
+      {
+        id: 173,
+        question:
+        "[Translate in Jap] : Injection.",
+        answer:　
+        "ちゅうしゃ",
+      },
+      {
+        id: 174,
+        question:
+        "[Translate in Jap] : Considerably, a lot.",
+        answer:　
+        "だいぶ",
+      },
+      {
+        id: 175,
+        question:
+        "[Translate in Jap] : roughly/(a peu pres).",
+        answer:　
+        "だいたい",
+      },
+      {
+        id: 176,
+        question:
+        "[Translate in Jap] : Heating(chauffage).",
+        answer:　
+        "だんぼう",
+      },
+      {
+        id: 177,
+        question:
+        "[Translate in Jap] : man/male.",
+        answer:　
+        "だんせい",
+      },
+      {
+        id: 178,
+        question:
+        "[Translate in Jap] : telegram.",
+        answer:　
+        "でんぽう",
+      },
+      {
+        id: 179,
+        question:
+        "[Translate in Jap] : electric light.",
+        answer:　
+        "でんとう",
+      },
+      {
+        id: 180,
+        question:
+        "[Translate in Jap] : more and more.",
+        answer:　
+        "どんどん",
+      },
+      {
+        id: 181,
+        question:
+          "Traduis la phrase suivante : Après la pluie, il y avait plusieurs flaques d'eau le long de la rue.",
+        answer:
+          "After the rain, there were several puddles along the street.", 
+      },
+      {
+        id: 182,
+        question:
+          "Traduis la phrase suivante : La barque avait deux rames qui ont été utilisées pour ramer dans l'eau.",
+        answer:
+          "The rowboat had two oars(ors) that were used to row it through the water.", 
+      },
+      {
+        id: 183,
+        question:
+          "Traduis la phrase suivante : Vous pouvez trouver une boîte d'allumettes à côté de la cuisinière.",
+        answer:
+          "You can find a matchbox next to the stove.", 
+      },
+      {
+        id: 184,
+        question:
+          "Traduis la phrase suivante : Henry a mis la bouilloire sur la cuisinière pour chauffer l'eau.",
+        answer:
+          "Henry put the kettle(kedel) on the stove to heat(hiit) the water.", 
+      },
+      {
+        id: 185,
+        question:
+          "Traduis la phrase suivante : Mina se réveilla en frissonnant et réalisa que le couvre-lit était tombé.",
+        answer:
+          "Mina woke up shivering and realised that the bedspread had fallen off.", 
+      },
+      {
+        id: 186,
+        question:
+          "Traduis la phrase suivante : Tu aurais besoin d'habiller des vetements de poupees.",
+        answer:
+          "You would have to wear dolls clothes.", 
+      },
+      {
+        id: 187,
+        question:
+          "Traduis la phrase suivante : Je préfère les moufles aux gants car elles sont plus chaudes.",
+        answer:
+          "I prefer mittens to gloves because they are warmer.", 
+      },
+      {
+        id: 188,
+        question:
+          "Traduis la phrase suivante : Une soudaine rafale/coup de vent a presque arraché Katy de ses pieds.",
+        answer:
+          "A sudden gust of wind almost kocked Katy off her feet.", 
+      },
+      {
+        id: 189,
+        question:
+          "Traduis la phrase suivante : La nourriture de l'école n'était pas mauvaise, mais Kevin avait une folle envie de cuisine de sa mère.",
+        answer:
+          "The school food wasn't bad, but Kevin craved his mother's cooking.", 
+      },
+      {
+        id: 190,
+        question:
+          "Traduis la phrase suivante : Je ne peux pas être sûr que la rumeur soit vraie, comme je l'ai entendue indirectement.",
+        answer:
+          "I can't be sure the rumour is true, as I heard it secondhand.", 
       },
    
   ];
