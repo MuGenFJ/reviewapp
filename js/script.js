@@ -1383,7 +1383,7 @@ const reviewArray = [
       {
         id: 195,
         question:
-        "[Coding] : Meaning ? const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';",
+        "[Coding] : Meaning ? \nconst classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';",
         answer:　
         "If sA equal cQ.a then is correct otherwise is incorrect.",
       },
