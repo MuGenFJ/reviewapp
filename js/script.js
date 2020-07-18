@@ -1539,7 +1539,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : complex,complicated",
         answer:　
-        "ふくしゅう",
+        "ふくざつ",
       },
       {
         id: 218,
