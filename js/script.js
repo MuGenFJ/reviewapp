@@ -1481,7 +1481,7 @@ const reviewArray = [
       {
         id: 209,
         question:
-        "[Translate in Jap] : It is Mr. Yamada that I will meet tomorrow.",
+        "[Translate in Jap] : When is the teacher going to see Mr Tanaka?",
         answer:　
         "先生が田中さん会おうのはいつですか。",
       },
