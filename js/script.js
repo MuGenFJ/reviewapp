@@ -1422,6 +1422,146 @@ const reviewArray = [
         answer:　
         "JavaScript Object Notation (is a format for storing data)",
       },
+      {
+        id: 201,
+        question:
+        "[Translate in Jap] : French is also spoken in South-Africa.",
+        answer:　
+        "フランス語は南アフリカでも話されています。",
+      },
+      {
+        id: 202,
+        question:
+        "[Translate in Jap] : English is spoken in various countries.",
+        answer:　
+        "英語はいろいろな国で話されています。",
+      },
+      {
+        id: 203,
+        question:
+        "[Translate in Jap] : The light bulb was invented by Mr. Edison.",
+        answer:　
+        "電球(・でんきゅう-light bulb) はエジソンさんによって発明されました。(はつめいする・to invent)",
+      },
+      {
+        id: 204,
+        question:
+        "[Translate in Jap] : Getting up early in the morning it's hard.",
+        answer:　
+        "朝早く起きるのは大変です(・たいへん）。",
+      },
+      {
+        id: 205,
+        question:
+        "[Translate in Jap] : I'm not good at dancing.",
+        answer:　
+        "ダンスをするのが下手です。",
+      },
+      {
+        id: 206,
+        question:
+        "[Translate in Jap] : Do you know that Yoshida left the company　?.",
+        answer:　
+        "よしださんが会社を辞めた（やめる）のを知っていますか。",
+      },
+      {
+        id: 207,
+        question:
+        "[Translate in Jap] : I forgot to lock my house.",
+        answer:　
+        "家の鍵（・かぎ）をかける（-to secure/lock)のを忘れました。",
+      },
+      {
+        id: 208,
+        question:
+        "[Translate in Jap] : It is Mr. Yamada that I will meet tomorrow.",
+        answer:　
+        "私が明日会おうのは山田さんです。",
+      },
+      {
+        id: 209,
+        question:
+        "[Translate in Jap] : It is Mr. Yamada that I will meet tomorrow.",
+        answer:　
+        "先生が田中さん会おうのはいつですか。",
+      },
+      {
+        id: 210,
+        question:
+        "[Translate in Jap] : It's hard to pronounce well.",
+        answer:　
+        "上手に発音（・はつおん）できなくて大変です。",
+      },
+      {
+        id: 211,
+        question:
+        "[Translate in Jap] : Tool.",
+        answer:　
+        "どうぐ。",
+      },
+      {
+        id: 212,
+        question:
+        "[Translate in Jap] : Branch.",
+        answer:　
+        "えだ",
+      },
+      {
+        id: 213,
+        question:
+        "[Translate in Jap] : declining, refraining​, holding back",
+        answer:　
+        "えんりょ",
+      },
+      {
+        id: 214,
+        question:
+        "[Translate in Jap] : fax",
+        answer:　
+        "ファックス",
+      },
+      {
+        id: 215,
+        question:
+        "[Translate in Jap] : deep",
+        answer:　
+        "ふかい",
+      },
+      {
+        id: 216,
+        question:
+        "[Translate in Jap] : review/revision",
+        answer:　
+        "ふくしゅう",
+      },
+      {
+        id: 217,
+        question:
+        "[Translate in Jap] : complex,complicated",
+        answer:　
+        "ふくしゅう",
+      },
+      {
+        id: 218,
+        question:
+        "[Translate in Jap] : to begin to rain/snow",
+        answer:　
+        "ふりだす",
+      },
+      {
+        id: 219,
+        question:
+        "[Translate in Jap] : usually",
+        answer:　
+        "ふつう",
+      },
+      {
+        id: 220,
+        question:
+        "[Translate in Jap] : petrol station",
+        answer:　
+        "ガソリンスタンド",
+      },
    
   ];
 
