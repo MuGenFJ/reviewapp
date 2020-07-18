@@ -1352,6 +1352,76 @@ const reviewArray = [
         answer:
           "I can't be sure the rumour is true, as I heard it secondhand.", 
       },
+      {
+        id: 191,
+        question:
+        "[Coding] : What's the meaning ? highScores.splice(5);",
+        answer:　
+        "Imagine that we have an array named highScores, so here at the 5th position in this array highScores we start cutting of evertying after that.",
+      },
+      {
+        id: 192,
+        question:
+        "[Coding] : What will console.log(nLs) give us in that case ? let nLs= array.map(function(item, index, array){ return item.length;});",
+        answer:　
+        "It will give all the item's length one by one inside the array.",
+      },
+      {
+        id: 193,
+        question:
+        "[Coding] : What does the map() function do ?",
+        answer:　
+        "We are able to map(loop) each item in the array  and change to something else inside a new array.",
+      },
+      {
+        id: 194,
+        question:
+        "[Coding] : What does the function sort() do ?",
+        answer:　
+        "Like the function name, its sorts the items of an array.",
+      },
+      {
+        id: 195,
+        question:
+        "[Coding] : Meaning ? const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';",
+        answer:　
+        "If sA equal cQ.a then is correct otherwise is incorrect.",
+      },
+      {
+        id: 196,
+        question:
+        "[Coding] : Convert this function into an arrow function. function getQuestion(){};",
+        answer:　
+        "getQuestion = () => {};",
+      },
+      {
+        id: 197,
+        question:
+        "[Coding] : What does this in javascript mean ? let q = [{item:1,item:2etc}] avQ = [...q]",
+        answer:　
+        "Take the array from q and spread all the item inside it then create a new array named avQ ",
+      },
+      {
+        id: 198,
+        question:
+        "[Coding] : What does this CSS mean ? .btn[disabled]:hover {cursor: not-allowed}",
+        answer:　
+        "It means to all btn which have the atrribute of disabled, in hover they will have this style.",
+      },
+      {
+        id: 199,
+        question:
+        "[Coding] : What does that mean in CSS ? .container > * { width:100%;}",
+        answer:　
+        "It means that any child which has as direct parent of container will have a width of 100%",
+      },
+      {
+        id: 200,
+        question:
+        "[Coding] : What is the meaning of JASON ?",
+        answer:　
+        "JavaScript Object Notation (is a format for storing data)",
+      },
    
   ];
 
