@@ -1441,7 +1441,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : The light bulb was invented by Mr. Edison.",
         answer:　
-        "電球(・でんきゅう-light bulb) はエジソンさんによって発明されました。(はつめいする・to invent)",
+        "電球(・でんきゅう) はエジソンさんによって発明されました。(はつめいする・to invent)",
       },
       {
         id: 204,
