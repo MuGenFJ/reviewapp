@@ -1562,6 +1562,76 @@ const reviewArray = [
         answer:　
         "ガソリンスタンド",
       },
+      {
+        id: 221,
+        question:
+          "Traduis la phrase suivante : Il etait assis à table et m'a lu des extraits du journal.",
+        answer:
+          "He sat at the table and read me snippets from the paper.", 
+      },
+      {
+        id: 222,
+        question:
+          "Traduis la phrase suivante : Martin a travaillé environ huit heures aujourd'hui.",
+        answer:
+          "Martin has done roughly eight hours work today.", 
+      },
+      {
+        id: 223,
+        question:
+          "Traduis la phrase suivante : Elle était considérablement bouleversée par les nouvelles.",
+        answer:
+          "She was considerably(kensidrebli) upset by the news.", 
+      },
+      {
+        id: 224,
+        question:
+          "Traduis la phrase suivante : La géographie de la région la rend presque inaccessible en voiture.",
+        answer:
+          "The geography(djiografi) of the region(riijen) makes it nearly inaccessible(inex-cessebel) by car.", 
+      },
+      {
+        id: 225,
+        question:
+          "Traduis la phrase suivante : Soyez extrêmement prudent lorsque vous traversez une rue très fréquentée.",
+        answer:
+          "Use extreme caution(kachen) when you cross a busy street.", 
+      },
+      {
+        id: 226,
+        question:
+          "Traduis la phrase suivante : L'enfant etait etendu dans le berceau.",
+        answer:
+          "The infant lay in the crib.", 
+      },
+      {
+        id: 227,
+        question:
+          "Traduis la phrase suivante : Ils s'assoient dans la cour (jardin de derriere) et lisent tout l'été.",
+        answer:
+          "They sit in the backyard and read all summer.", 
+      },
+      {
+        id: 228,
+        question:
+          "Traduis la phrase suivante : Des couples valsaient sur la musique d'un petit orchestre.",
+        answer:
+          "Couples were waltzing(ualsing) to the music of a small orchestra.(okestra)", 
+      },
+      {
+        id: 229,
+        question:
+          "Traduis la phrase suivante : Jake est tellement maladroit qu'il se heurte toujours à des choses et laisse tomber des choses.",
+        answer:
+          "Jake is so clumsy(klamsi) he's always running into things and dropping things.", 
+      },
+      {
+        id: 230,
+        question:
+          "Traduis la phrase suivante : Je voudrais une tarte, une purée de pommes de terre et des légumes.",
+        answer:
+          "I would like pie, mashed(mëcht) potatoes, and vegetables.", 
+      },
    
   ];
 
