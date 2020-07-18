@@ -1460,7 +1460,7 @@ const reviewArray = [
       {
         id: 206,
         question:
-        "[Translate in Jap] : Do you know that Yoshida left the company　?.",
+        "[Translate in Jap] : Do you know that Yoshida left the company ?",
         answer:　
         "よしださんが会社を辞めた（やめる）のを知っていますか。",
       },
