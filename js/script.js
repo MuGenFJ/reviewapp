@@ -1632,6 +1632,153 @@ const reviewArray = [
         answer:
           "I would like pie, mashed(mëcht) potatoes, and vegetables.", 
       },
+      {
+        id: 231,
+        question:
+        "[Coding] : What is the button.addEventListener(keyup) do ?",
+        answer:　
+        "Is an event listener that will react instantly when you release a key from your keyboard.",
+      },
+      {
+        id: 232,
+        question:
+        "[Coding] : What is the function sort() do ?",
+        answer:　
+        "It will sorts an array alphabetically.",
+      },
+      {
+        id: 233,
+        question:
+        "[Coding] : What does this CSS do ? button:active {transform: scale(0.98);}",
+        answer:　
+        "It means when we clik on the btn it will decrease the zoom. ",
+      },
+      {
+        id: 234,
+        question:
+        "[Coding] : What is the difference between let and const ?",
+        answer:　
+        "let we can owerwrite it & const not.",
+      },
+      {
+        id: 235,
+        question:
+        "[Coding] : What does the function filter() do? const filtered = num.filter(function(value){return value >= 0;}) ?",
+        answer:　
+        "Imagine that we have an array with + and - numbers. \nIts filter the array on the criteria. \nThe function have an callback function with 3 params: value,index,array. \nIt will loop through the array and will excecute the callback function for each number. \nIf the element inside the array match the criteria it will add the element according the criteria to a new array.",
+      },
+      {
+        id: 236,
+        question:
+        "[Coding] : What does the join() do ? var fruits=[banana,orange...]; var ener= fruits.join();",
+        answer:　
+        "Dataset property allows us to set and get the values of data attributes. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
+      },
+      {
+        id: 237,
+        question:
+        "[Coding] : How does the function forEach() work? ",
+        answer:　
+        "It will call a callback function once for each element inside an array. The callback f has 3param:item,index,array. item for the element, index for the number and array for that array.",
+      },
+      {
+        id: 238,
+        question:
+        "[Coding] : What is an argunment in an function ?",
+        answer:　
+        "It is the same as an params .",
+      },
+      {
+        id: 239,
+        question:
+        "[Translate in Jap] : In Japan's Summer it's also hot at night that's difficult.",
+        answer:　
+        "日本の夏は夜も熱くて大変です。",
+      },
+      {
+        id: 240,
+        question:
+        "[Translate in Jap] :　Many houses were destroyed/broken by the earthquake.",
+        answer:　
+        "地震で(じしん）たくさんの家が壊れました。（・こわれる）",
+      },
+      {
+        id: 241,
+        question:
+        "[Translate in Jap] :　I have a promise today so i can't go.",
+        answer:　
+        "今日は約束（・やくそく）があるのでいけません。",
+      },
+      {
+        id: 242,
+        question:
+        "[Translate in Jap] :　It's already 11pm, so can you keep quiet ?",
+        answer:　
+        "もう夜（よる）11時なので静か（・しずか）にしていただけませんか。",
+      },
+      {
+        id: 242,
+        question:
+        "[Translate in Jap] :　I don't know how much these shoes are.",
+        answer:　
+        "この靴はいくらかわかりません。",
+      },
+      {
+        id: 243,
+        question:
+        "[Translate in Jap] :　If i can do anything for my little brother, ask me please.",
+        answer:　
+        "私が弟のためにできることがあれば、いつでも言ってくださいね。",
+      },
+      {
+        id: 244,
+        question:
+        "[Translate in Jap] :　If i can do anything for my little brother, ask me please.",
+        answer:　
+        "私が弟のためにできることがあれば、いつでも言ってくださいね。",
+      },
+      {
+        id: 245,
+        question:
+        "[Translate in Jap] :　Please tell me if Yuri is cute or not.",
+        answer:　
+        "ゆりさんは可愛い（・かわいい）かどうか教えて（・おしえる）ください。",
+      },
+      {
+        id: 246,
+        question:
+        "[Translate in Jap] :　cause; origin; source​.",
+        answer:　
+        "げんいん",
+      },
+      {
+        id: 247,
+        question:
+        "[Translate in Jap] :　lodging(hebergement/logement).",
+        answer:　
+        "げしゅく",
+      },
+      {
+        id: 248,
+        question:
+        "[Translate in Jap] : technique, skill",
+        answer:　
+        "ぎじゅつ",
+      },
+      {
+        id: 249,
+        question:
+        "[Translate in Jap] : a feast",
+        answer:　
+        "ごちそう",
+      },
+      {
+        id: 250,
+        question:
+        "[Translate in Jap] : rubbish/garbage",
+        answer:　
+        "ごみ",
+      },
    
   ];
 
