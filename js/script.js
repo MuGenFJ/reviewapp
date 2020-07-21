@@ -587,7 +587,7 @@ const reviewArray = [
     //     question:
     //       "Traduis la phrase suivante : Est-ce que ca vaut le coup de le faire ?",
     //     answer:
-    //       "Is it event worth doing ?",      
+    //       "Is it even worth doing ?",      
     //   },
     //   {
     //     id: 83,
@@ -774,7 +774,7 @@ const reviewArray = [
     //   {
     //     id: 109,
     //     question:
-    //     "[Coding] : What is a spreadOperator or alse named ...Operator ?",
+    //     "[Coding] : What is a spreadOperator or also named ...Operator ?",
     //     answer:　
     //     "He spread all the individual item contained in an array for instance so that we can grasp it.",
     //   },
@@ -928,7 +928,7 @@ const reviewArray = [
     //   {
     //     id: 130,
     //     question:
-    //     "[Translate in Jap36] : PCs became cheaper, so many people became capable to buy them.",
+    //     "[Translate in Jap] : PCs became cheaper, so many people became capable to buy them.",
     //     answer:　
     //     "パソコンは安くなりましたから、たくさんの人が買えるようになりました。",
     //   },
@@ -1173,9 +1173,9 @@ const reviewArray = [
       {
         id: 165,
         question:
-        "[Translate in Jap] : I was scolded by the manager.",
+        "[Translate in Jap] : The teacher praised me.",
         answer:　
-        "私は部長に𠮟られました（・しかられました・しかる）。",
+        "先生は私を褒めました（・ほめる）。",
       },
       {
         id: 166,
@@ -1672,7 +1672,7 @@ const reviewArray = [
         question:
         "[Coding] : What does the join() do ? var fruits=[banana,orange...]; var ener= fruits.join();",
         answer:　
-        "Dataset property allows us to set and get the values of data attributes. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
+        "This function will tranform the array into a string. banana,orange ...",
       },
       {
         id: 237,
@@ -1684,7 +1684,7 @@ const reviewArray = [
       {
         id: 238,
         question:
-        "[Coding] : What is an argunment in an function ?",
+        "[Coding] : What is an argument in an function ?",
         answer:　
         "It is the same as an params .",
       },
@@ -1733,51 +1733,51 @@ const reviewArray = [
       {
         id: 244,
         question:
-        "[Translate in Jap] :　If i can do anything for my little brother, ask me please.",
-        answer:　
-        "私が弟のためにできることがあれば、いつでも言ってくださいね。",
-      },
-      {
-        id: 245,
-        question:
         "[Translate in Jap] :　Please tell me if Yuri is cute or not.",
         answer:　
         "ゆりさんは可愛い（・かわいい）かどうか教えて（・おしえる）ください。",
       },
       {
-        id: 246,
+        id: 245,
         question:
         "[Translate in Jap] :　cause; origin; source​.",
         answer:　
         "げんいん",
       },
       {
-        id: 247,
+        id: 246,
         question:
         "[Translate in Jap] :　lodging(hebergement/logement).",
         answer:　
         "げしゅく",
       },
       {
-        id: 248,
+        id: 247,
         question:
         "[Translate in Jap] : technique, skill",
         answer:　
         "ぎじゅつ",
       },
       {
-        id: 249,
+        id: 248,
         question:
         "[Translate in Jap] : a feast",
         answer:　
         "ごちそう",
       },
       {
-        id: 250,
+        id: 249,
         question:
         "[Translate in Jap] : rubbish/garbage",
         answer:　
         "ごみ",
+      },
+      {
+        id: 250,
+        question:
+        "[Translate in Jap] : your husband/her husband",
+        answer:　
+        "ごしゅじん",
       },
    
   ];
