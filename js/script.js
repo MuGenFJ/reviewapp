@@ -1779,6 +1779,76 @@ const reviewArray = [
         answer:　
         "ごしゅじん",
       },
+      {
+        id: 251,
+        question:
+          "Traduis la phrase suivante : Vous devez attendre que les prunes soient mûres avant de les cueillir.",
+        answer:
+          "You need to wait until the plums(plams) are ripe(raip) before you pick them.", 
+      },
+      {
+        id: 252,
+        question:
+          "Traduis la phrase suivante : Au-delà du potager se trouve un verger(terrain planté d'arbre fruitiers) avec une variété d'arbres fruitiers.",
+        answer:
+          "Beyond the vegetable garden is an orchard(orched) with a variety(vewa-yeti) of fruit trees.", 
+      },
+      {
+        id: 253,
+        question:
+          "Traduis la phrase suivante : Rangez-vous vers la droite si vous entendez une sirène.",
+        answer:
+          "Pull over to the right if you hear a siren(sairen).", 
+      },
+      {
+        id: 254,
+        question:
+          "Traduis la phrase suivante : Vous serez payé lorsque vous aurez rempli vos obligations contractuelles.",
+        answer:
+          "You will be paid when you've fulfilled your contractual obligations.", 
+      },
+      {
+        id: 255,
+        question:
+          "Traduis la phrase suivante : Ils ne reçoivent pas une part équitable des bénéfices.",
+        answer:
+          "They aren't receiving a fair share of the profits.", 
+      },
+      {
+        id: 256,
+        question:
+          "Traduis la phrase suivante : La beauté est superficielle.",
+        answer:
+          "Beauty is skin deep.", 
+      },
+      {
+        id: 257,
+        question:
+          "Traduis la phrase suivante : Le juge a accordé au plaignant le droit de voir les documents.",
+        answer:
+          "The Judge granted(grënted) the plaintiff(plëintiff) the right to see the documents.", 
+      },
+      {
+        id: 258,
+        question:
+          "Traduis la phrase suivante : Les enfants se sont faufilés en bas, tôt le matin de Noël, pour voir si le Père Noël avait été.",
+        answer:
+          "The children snuck(past form - to sneak) downstairs, early on Christmas morning, to see if Santa had been.", 
+      },
+      {
+        id: 259,
+        question:
+          "Traduis la phrase suivante : Becky a une forte croyance en la superstition, et elle a paniqué quand elle a vu un chat noir sur le trottoir devant elle.",
+        answer:
+          "Becky has a strong belief in superstition(superstichen), and she panicked when she saw a black cat on the sidewalk ahead of her.", 
+      },
+      {
+        id: 260,
+        question:
+          "Traduis la phrase suivante : Cette nouvelle lessive me fait des démangeaisons partout.",
+        answer:
+          "This new washing-powder is making me itchy all over.", 
+      },
    
   ];
 
