@@ -1849,6 +1849,300 @@ const reviewArray = [
         answer:
           "This new washing-powder is making me itchy all over.", 
       },
+      {
+        id: 261,
+        question:
+        "[Coding] : What is dataset property ?",
+        answer:　
+        "Dataset property allows us to set and get the values of data attributes of an html element. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
+      },
+      {
+        id: 262,
+        question:
+        "[Coding] : What is dataset property ?",
+        answer:　
+        "Dataset property allows us to set and get the values of data attributes of an html element. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
+      },
+      {
+        id: 263,
+        question:
+        "[Coding] : What is the difference between map() and filter() functions ?",
+        answer:　
+        "With map we can loop through all item inside an array and modify it and filter we loop through all item with a search criteria based on the callback function that will go through each item.",
+      },
+      {
+        id: 264,
+        question:
+        "[Coding] : Translate thoses signs: -, _, :, ;, virgule, (), {}, [], double gimets, '', `, <, >, !, ?,",
+        answer:　
+        "hyphen/dash, underscore, colon, semi-colon, comma, paranthesis, curly bracesbrackets, double quotes, single-quotes, backticks/template-strings, less then, greater then, exclamation mark, question-mark.",
+      },
+      {
+        id: 265,
+        question:
+        "[Coding] : The differences about event target and currentTarget.",
+        answer:　
+        "The event target gives us whatever you click on!  And currentTarget the parent element of what we clicked on.",
+      },
+      {
+        id: 266,
+        question:
+        "[Coding] : What is the function pause() & play() do ?",
+        answer:　
+        "Starts playing or pausing the current audio or video.",
+      },
+      {
+        id: 267,
+        question:
+        "[Coding] : What is the method contains() do ? Ex: element.classList.contains(active).",
+        answer:　
+        "The contains() method returns a Boolean value true/false indicating whether a node(html-tags) is a descendant of a specified node. Here in this ex. we want to know if in the element contains a node with a class of (active)",
+      },
+      {
+        id: 268,
+        question:
+        "[Coding] : What is a node in javascript ?",
+        answer:　
+        "A node is simply an html element in the DOM.",
+      },
+      {
+        id: 269,
+        question:
+        "[Coding] : What does the includes() function do?",
+        answer:　
+        "The includes() method determines whether an array contains a specified element.",
+      },
+      {
+        id: 270,
+        question:
+        "[Coding] : What does the function reduce() do? numb=[1,2,3,4] const total=numb.reduce(sum,0).",
+        answer:　
+        " Its excecutes a callback function here -sum- which can have 4 params(accumlator,value,index,array), the accumlator will be the intial value, here is 0, if we don't push a intial value it will take the first value from the array.",
+      },
+      {
+        id: 271,
+        question:
+        "[Translate in Jap] : I want to try to dance.",
+        answer:　
+        "ダンスをやってみたいです。",
+      },
+      {
+        id: 271,
+        question:
+        "[Translate in Jap] : I don't know the goodness of natto.",
+        answer:　
+        "納豆（・なっと）の美味し（おいしい）さがわかりません。",
+      },
+      {
+        id: 272,
+        question:
+        "[Translate in Jap] : Do you know how to measure the height of a mountain?",
+        answer:　
+        "山の高さはどうやって計る（・はかる)か、知っていますか。",
+      },
+      {
+        id: 273,
+        question:
+        "[Translate in Jap] : Miss Abe got a ring from her boyfriend.",
+        answer:　
+        "あべさんは彼氏（・かれし）に指輪（・ゆびわ）を貰いました(・もらう）。",
+      },
+      {
+        id: 274,
+        question:
+        "[Translate in Jap] : Miss Abe got a T-shirt from her superior/older person.",
+        answer:　
+        "あべさんは先輩（・せんぱい）にTシャツをいただきました。（いただく-to kindly receive/to get）",
+      },
+      {
+        id: 275,
+        question:
+        "[Translate in Jap] : Miss Abe got a T-shirt from her superior/older person.",
+        answer:　
+        "先生は私にお土産（・おみやげ）をくださいました。（くださる-to kindly give it to me）",
+      },
+      {
+        id: 276,
+        question:
+        "[Translate in Jap] : Thank you! I got from my big brother during this time.",
+        answer:　
+        "ありがとう。この間兄に貰いました。（もらう）",
+      },
+      {
+        id: 277,
+        question:
+        "[Translate in Jap] : Miss Abe gave her younger sister a hat.",
+        answer:　
+        "あべさんは先輩（・せんぱい）に鞄（・かばん）をさしあげました（・to kindly give (superior))。",
+      },
+      {
+        id: 278,
+        question:
+        "[Translate in Jap] : Miss Abe gave a bag to her senior.",
+        answer:　
+        "あべさんは先輩（・せんぱい）に鞄（・かばん）をさしあげました（・to kindly give (superior))。",
+      },
+      {
+        id: 279,
+        question:
+        "[Translate in Jap] : The teacher taught me hiragana.",
+        answer:　
+        "先生は私にひらがなを教えてくださいました。",
+      },
+      {
+        id: 280,
+        question:
+        "[Translate in Jap] : The older sister washed her little brother's clothes.",
+        answer:　
+        "お姉さんは弟の服を洗濯（せんたく）してやりました。",
+      },
+      {
+        id: 281,
+        question:
+        "[Translate in Jap] : knowing",
+        answer:　
+        "ごぞんじ",
+      },
+      {
+        id: 282,
+        question:
+        "[Translate in Jap] : condition, health",
+        answer:　
+        "ぐあい",
+      },
+      {
+        id: 283,
+        question:
+        "[Translate in Jap] : to carry/transport",
+        answer:　
+        "はこぶ",
+      },
+      {
+        id: 284,
+        question:
+        "[Translate in Jap] : opposition",
+        answer:　
+        "はんたい",
+      },
+      {
+        id: 285,
+        question:
+        "[Translate in Jap] : to pay",
+        answer:　
+        "はらう",
+      },
+      {
+        id: 286,
+        question:
+        "[Translate in Jap] : forest",
+        answer:　
+        "はやし",
+      },
+      {
+        id: 287,
+        question:
+        "[Translate in Jap] : embarrassed",
+        answer:　
+        "はずかしい",
+      },
+      {
+        id: 288,
+        question:
+        "[Translate in Jap] : strange, weird",
+        answer:　
+        "へんじ",
+      },
+      {
+        id: 289,
+        question:
+        "[Translate in Jap] : awful, terrible, cruel, hearthless",
+        answer:　
+        "ひどい",
+      },
+      {
+        id: 290,
+        question:
+        "[Translate in Jap] : to grow cold, to get chilly (etre rafraichit-chambre par ex.)",
+        answer:　
+        "ひえる",
+      },
+      {
+        id: 291,
+        question:
+          "Traduis la phrase suivante : Jeanette est très agile pour une personne de 80 ans car elle fait du yoga tous les jours.",
+        answer:
+          "Jeanette is very agile(ĕjail) for an 80 year old because she does yoga every day.", 
+      },
+      {
+        id: 292,
+        question:
+          "Traduis la phrase suivante : Le professeur de natation a appris aux élèves à flotter sur l'eau.",
+        answer:
+          "The swimming teacher taught the students how to float on water.", 
+      },
+      {
+        id: 293,
+        question:
+          "Traduis la phrase suivante : Quelqu'un aide cet homme, il s'étouffe.",
+        answer:
+          "Someone help that man, he's choking.(cheuking)", 
+      },
+      {
+        id: 294,
+        question:
+          "Traduis la phrase suivante : L'eau est peu profonde ici.",
+        answer:
+          "The water is shallow here.", 
+      },
+      {
+        id: 295,
+        question:
+          "Traduis la phrase suivante : Ray passa devant avec son camion.",
+        answer:
+          "Ray drove by in his truck.", 
+      },
+      {
+        id: 295,
+        question:
+          "Traduis la phrase suivante : Mai passe chaque dimanche matin à faire des corvées.",
+        answer:
+          "Mai spends every Sunday morning doing chores(chors).", 
+      },
+      {
+        id: 296,
+        question:
+          "Traduis la phrase suivante : Cela ma demangeais de venir vous voir.",
+        answer:
+          "It was itching to come and see you.", 
+      },
+      {
+        id: 297,
+        question:
+          "Traduis la phrase suivante : John a utilisé l'échelle pour monter sur le toit pour nettoyer les gouttières.",
+        answer:
+          "John used the ladder(lĕder) to climb onto the roof to clean out the gutters.(gaders)", 
+      },
+      {
+        id: 298,
+        question:
+          "Traduis la phrase suivante : Je ne peux pas porter le nouveau pull car il me démange trop.",
+        answer:
+          "I can't wear the new sweater beacuse it's too itchy.", 
+      },
+      {
+        id: 299,
+        question:
+          "Traduis la phrase suivante : La plupart des religions anciennes sont désormais traitées comme une mythologie superstitieuse.",
+        answer:
+          "Most ancient religions are treated as superstitious(superstichious) mythologiy now.", 
+      },
+      {
+        id: 300,
+        question:
+          "Traduis la phrase suivante : Je sors au pub pour étancher ma soif.",
+        answer:
+          "I'm going out to the pub to quench my thirst(ferst).", 
+      },
    
   ];
 
