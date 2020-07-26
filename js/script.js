@@ -1857,13 +1857,6 @@ const reviewArray = [
         "Dataset property allows us to set and get the values of data attributes of an html element. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
       },
       {
-        id: 262,
-        question:
-        "[Coding] : What is dataset property ?",
-        answer:　
-        "Dataset property allows us to set and get the values of data attributes of an html element. myDiv.dataset.name=Bob. This for ex will modifiy the value to bob.",
-      },
-      {
         id: 263,
         question:
         "[Coding] : What is the difference between map() and filter() functions ?",
@@ -1873,7 +1866,7 @@ const reviewArray = [
       {
         id: 264,
         question:
-        "[Coding] : Translate thoses signs: -, _, :, ;, virgule, (), {}, [], double gimets, '', `, <, >, !, ?,",
+        "[Coding] : Translate thoses signs: -, _, :, ;, virgule, (), {}, [], double gimets, ', `, <, >, !, ?,",
         answer:　
         "hyphen/dash, underscore, colon, semi-colon, comma, paranthesis, curly bracesbrackets, double quotes, single-quotes, backticks/template-strings, less then, greater then, exclamation mark, question-mark.",
       },
@@ -1950,16 +1943,16 @@ const reviewArray = [
       {
         id: 274,
         question:
-        "[Translate in Jap] : Miss Abe got a T-shirt from her superior/older person.",
+        "[Translate in Jap] : Miss Abe got a watch from her superior/older person.",
         answer:　
-        "あべさんは先輩（・せんぱい）にTシャツをいただきました。（いただく-to kindly receive/to get）",
+        "あべさんは先輩（・せんぱい）に時計をいただきました。（いただく-to kindly receive/to get）",
       },
       {
         id: 275,
         question:
-        "[Translate in Jap] : Miss Abe got a T-shirt from her superior/older person.",
+        "[Translate in Jap] : I got a T-shirt from my superior/older person.",
         answer:　
-        "先生は私にお土産（・おみやげ）をくださいました。（くださる-to kindly give it to me）",
+        "先生は私にTシャツをくださいました。",
       },
       {
         id: 276,
@@ -1973,7 +1966,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : Miss Abe gave her younger sister a hat.",
         answer:　
-        "あべさんは先輩（・せんぱい）に鞄（・かばん）をさしあげました（・to kindly give (superior))。",
+        "あべさんは妹に帽子（・ぼうし）をやりました。",
       },
       {
         id: 278,
@@ -2050,7 +2043,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : strange, weird",
         answer:　
-        "へんじ",
+        "へん",
       },
       {
         id: 289,
@@ -2142,6 +2135,293 @@ const reviewArray = [
           "Traduis la phrase suivante : Je sors au pub pour étancher ma soif.",
         answer:
           "I'm going out to the pub to quench my thirst(ferst).", 
+      },
+      {
+        id: 301,
+        question:
+        "[Coding] : What is the modulus operator ?",
+        answer:　
+        " It is represented with the sign of % and It will see what is the reminder of a number. Ex : 9 % 2 = 1",
+      },
+      {
+        id: 302,
+        question:
+        "[Coding] : How does clearInterval() function do?",
+        answer:　
+        " The clearInterval() method clears a timer set with the setInterval() method.",
+      },
+      {
+        id: 303,
+        question:
+        "[Coding] : How does setInterval() function works?",
+        answer:　
+        "Calls a function or evaluates an expression at specified intervals (in milliseconds).",
+      },
+      {
+        id: 304,
+        question:
+        "[Coding] : How does the function getTime() works?",
+        answer:　
+        "it's a function that will give us the current or specific time in ms from the method new Date();",
+      },
+      {
+        id: 305,
+        question:
+        "[Coding] : What does the function getFullYear(), getMonth, getDate(), getDay(), getHours(), getMinutes() do ?",
+        answer:　
+        "getFullYear will give us the current year or the secific one that we had add in new Date, same for month, day, minutes and getDate we will obtain the days of the week.",
+      },
+      {
+        id: 306,
+        question:
+        "[Coding] : What gives us this function new Date() ?",
+        answer:　
+        "It will give us the current date or the specific date depends if we marked something in the callback function. the function has 7params(year,month,date,hours,min,sec,ms).",
+      },
+      {
+        id: 307,
+        question:
+        "[Translate in Jap] : I'm studying hard to enter the University of Tokyo。",
+        answer:　
+        "東京大学に入るために、一生懸命勉強しています。",
+      },
+      {
+        id: 308,
+        question:
+        "[Translate in Jap] : I'm going to Germany to attend an international conference。",
+        answer:　
+        "国際会議（・こくさいかいぎ）に出席（しゅっせき）のためドイツに行きます。",
+      },
+      {
+        id: 309,
+        question:
+        "[Translate in Jap] : The place where I live next time has a supermarket nearby and is convenient for shopping。",
+        answer:　
+        "今度住むところは、近くにスーパーがあって、買い物するのに便利です。",
+      },
+      {
+        id: 310,
+        question:
+        "[Translate in Jap] : It has a large garden, is good for keeping dogs。",
+        answer:　
+        "大きい庭（・にわ）があって、犬を飼うのにいいです。",
+      },
+      {
+        id: 311,
+        question:
+        "[Translate in Jap] : It takes 24 hours to come from Belgium to Japan。",
+        answer:　
+        "ベルギーから日本まで来るのに24時間は掛かります（かかります）。",
+      },
+      {
+        id: 312,
+        question:
+        "[Translate in Jap] : It costs 2 million yen for a marriage ceremony at the hotel.",
+        answer:　
+        "ホテルで結婚式（・けっこんしき）をするのに200万円掛かります。",
+      },
+      {
+        id: 313,
+        question:
+        "[Translate in Jap] : It costs 2 million yen for a marriage ceremony at the hotel. It's also cost 2 million yen that's hard.",
+        answer:　
+        "ホテルで結婚式（・けっこんしき）をするのに200万円掛かります。200万円も掛かるんですか。大変ですね。",
+      },
+      {
+        id: 314,
+        question:
+        "[Translate in Jap] :　It's going to rain.",
+        answer:　
+        "雨が降りそうです。",
+      },
+      {
+        id: 315,
+        question:
+        "[Translate in Jap] :　I ate too much ice cream.",
+        answer:　
+        "アイスクリームを食べすぎました。",
+      },
+      {
+        id: 316,
+        question:
+        "[Translate in Jap] :　Too much alcohol is bad for the body.",
+        answer:　
+        "お酒の飲みすぎは体に悪いよ。",
+      },
+      {
+        id: 317,
+        question:
+        "[Translate in Jap] :　Too much alcohol is bad for the body.",
+        answer:　
+        "先生の話かたが長すぎるて、学生が倒れました。（・たおれました）",
+      },
+      {
+        id: 318,
+        question:
+        "[Translate in Jap] :　This clothes is too big.",
+        answer:　
+        "この服は大きすぎます。",
+      },
+      {
+        id: 318,
+        question:
+        "[Translate in Jap] :　This shoes are easy to walk.",
+        answer:　
+        "この靴は歩きやすいです。",
+      },
+      {
+        id: 319,
+        question:
+        "[Translate in Jap] :　This shoes are difficult to walk.",
+        answer:　
+        "この靴は歩き難い(・にくい）です。",
+      },
+      {
+        id: 320,
+        question:
+        "[Translate in Jap44] :　It is easy to dry the laundry on a sunny day.",
+        answer:　
+        "晴れ（・はれ）の日は洗濯物（せんたくもの）が乾き（・かわく）やすいです。",
+      },
+      {
+        id: 321,
+        question:
+        "[Translate in Jap] :　Beard",
+        answer:　
+        "ひげ",
+      },
+      {
+        id: 322,
+        question:
+        "[Translate in Jap] : Extremely",
+        answer:　
+        "ひじょうに",
+      },
+      {
+        id: 323,
+        question:
+        "[Translate in Jap] : Light",
+        answer:　
+        "ひかり",
+      },
+      {
+        id: 324,
+        question:
+        "[Translate in Jap] : drawer",
+        answer:　
+        "ひきだし",
+      },
+      {
+        id: 325,
+        question:
+        "[Translate in Jap] : withdraw",
+        answer:　
+        "ひきだす",
+      },
+      {
+        id: 326,
+        question:
+        "[Translate in Jap] : to move (house) ",
+        answer:　
+        "ひっこす",
+      },
+      {
+        id: 327,
+        question:
+        "[Translate in Jap] : airport/airflield ",
+        answer:　
+        "くうこう・ひこうじょう",
+      },
+      {
+        id: 328,
+        question:
+        "[Translate in Jap] : open/unseal ",
+        answer:　
+        "ひらく",
+      },
+      {
+        id: 329,
+        question:
+        "[Translate in Jap] : to pick up ",
+        answer:　
+        "ひろう",
+      },
+      {
+        id: 330,
+        question:
+        "[Translate in Jap] : daytime/ during the day ",
+        answer:　
+        "ひるま",
+      },
+      {
+        id: 331,
+        question:
+          "Traduis la phrase suivante : Le coût d'un gallon (= 3,5 l) d'essence a de nouveau augmenté.",
+        answer:
+          "The cost of a gallon(=3.5l)(gaellen) of gas(gaes) just went up again.", 
+      },
+      {
+        id: 332,
+        question:
+          "Traduis la phrase suivante : Le dîner est au four (aven) et sera prêt dans une heure.",
+        answer:
+          "The dinner is in the oven(aven) and will be ready in an hour.", 
+      },
+      {
+        id: 333,
+        question:
+          "Traduis la phrase suivante : En hiver, Daphné aime s'asseoir et coudre au coin du feu.",
+        answer:
+          "In the winter, Daphne likes to sit and sew by the fire.", 
+      },
+      {
+        id: 334,
+        question:
+          "Traduis la phrase suivante : Utilisez un fil pour attacher les pièces ensemble.",
+        answer:
+          "Use a thread(fred) to tie the pieces together.", 
+      },
+      {
+        id: 335,
+        question:
+          "Traduis la phrase suivante : Le médecin a injecté le vaccin avec une aiguille.",
+        answer:
+          "The doctor injected the vaccine(vëksin) with a needle.", 
+      },
+      {
+        id: 336,
+        question:
+          "Traduis la phrase suivante : Le plafond dans la chambre était peint en bleu.",
+        answer:
+          "The ceiling(ciling) in the bedroom was painted blue.", 
+      },
+      {
+        id: 337,
+        question:
+          "Traduis la phrase suivante : Lorsqu'elle a sorti une cigarette et qu'elle s'est allumée, plusieurs personnes ont quitté la pièce.",
+        answer:
+          "When she pulled out a cigarette and lit up(light up), several people left the room.", 
+      },
+      {
+        id: 338,
+        question:
+          "Traduis la phrase suivante : Louis a parlé severement a l'employé de bureau debutant quand il est arrivé en retard au travail à nouveau.",
+        answer:
+          "Louis spoke sharply to the office junior when he arrived late at work again.", 
+      },
+      {
+        id: 339,
+        question:
+          "Traduis la phrase suivante : Le dîner était ennuyeux/penible, il n'y avait personne d'intéressant à qui parler.",
+        answer:
+          "The dinner party was tedious, there was no one at all interesting to talk to.", 
+      },
+      {
+        id: 340,
+        question:
+          "Traduis la phrase suivante : Je suis terriblement gêné mais j'ai oublié votre nom.",
+        answer:
+          "I'm terribly embarrassed(imbaerest) but I've forgotton your name.", 
       },
    
   ];
