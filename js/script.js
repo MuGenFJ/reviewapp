@@ -1873,7 +1873,7 @@ const reviewArray = [
       {
         id: 265,
         question:
-        "[Coding] : The differences about event target and currentTarget.",
+        "[Coding] : The differences about the event: target and currentTarget.",
         answer:　
         "The event target gives us whatever you click on!  And currentTarget the parent element of what we clicked on.",
       },
@@ -2214,13 +2214,6 @@ const reviewArray = [
         "ベルギーから日本まで来るのに24時間は掛かります（かかります）。",
       },
       {
-        id: 312,
-        question:
-        "[Translate in Jap] : It costs 2 million yen for a marriage ceremony at the hotel.",
-        answer:　
-        "ホテルで結婚式（・けっこんしき）をするのに200万円掛かります。",
-      },
-      {
         id: 313,
         question:
         "[Translate in Jap] : It costs 2 million yen for a marriage ceremony at the hotel. It's also cost 2 million yen that's hard.",
@@ -2251,9 +2244,9 @@ const reviewArray = [
       {
         id: 317,
         question:
-        "[Translate in Jap] :　Too much alcohol is bad for the body.",
+        "[Translate in Jap] :　The teacher's talk was too long and the students fell asleep.",
         answer:　
-        "先生の話かたが長すぎるて、学生が倒れました。（・たおれました）",
+        "先生の話かたが長すぎて、学生が倒れました。（・たおれました）",
       },
       {
         id: 318,
@@ -2279,7 +2272,7 @@ const reviewArray = [
       {
         id: 320,
         question:
-        "[Translate in Jap44] :　It is easy to dry the laundry on a sunny day.",
+        "[Translate in Jap] :　It is easy to dry the laundry on a sunny day.",
         answer:　
         "晴れ（・はれ）の日は洗濯物（せんたくもの）が乾き（・かわく）やすいです。",
       },
@@ -2363,7 +2356,7 @@ const reviewArray = [
       {
         id: 332,
         question:
-          "Traduis la phrase suivante : Le dîner est au four (aven) et sera prêt dans une heure.",
+          "Traduis la phrase suivante : Le dîner est au four et sera prêt dans une heure.",
         answer:
           "The dinner is in the oven(aven) and will be ready in an hour.", 
       },
@@ -2422,6 +2415,293 @@ const reviewArray = [
           "Traduis la phrase suivante : Je suis terriblement gêné mais j'ai oublié votre nom.",
         answer:
           "I'm terribly embarrassed(imbaerest) but I've forgotton your name.", 
+      },
+      {
+        id: 341,
+        question:
+        "[Coding] : What is the function parseInt() ?",
+        answer:　
+        "parses (analyse) a string and returns an integer (chiffre entier).",
+      },
+      {
+        id: 342,
+        question:
+        "[Coding] : explain? if(isNan(value) || value < 0 || value > 9) { result.innerHTML = ...} ",
+        answer:　
+        "if the value is not a number or value is less then 0 or value is greater then 9 then condition.",
+      },
+      {
+        id: 343,
+        question:
+        "[Coding] : What is the slice() method do ?",
+        answer:　
+        "Have 2 params for indicate when begin to take the item and the second params when it should stop. The it will create a new array with those values selected.",
+      },
+      {
+        id: 344,
+        question:
+        "[Coding] : What is the value proprety do ?",
+        answer:　
+        "We can catch the value from a input from a form or we can sets or returns the value of an attribute. ",
+      },
+      {
+        id: 345,
+        question:
+        "[Coding] : What does document.createElement() do ?",
+        answer:　
+        "It will create an new element(node) for instance here a <button> and with document.body.appendChild.btn we will add that btn as a child in the body. ",
+      },
+      {
+        id: 346,
+        question:
+        "[Coding] : What does document.createElement() do ?",
+        answer:　
+        "It will create an new element(node) for instance here a <button> and with document.body.appendChild.btn we will add that btn as a child in the body. ",
+      },
+      {
+        id: 347,
+        question:
+        "[Coding] : What are the element.setAttributNode() do?",
+        answer:　
+        "Add a specified attribute node to an element.",
+      },
+      {
+        id: 348,
+        question:
+        "[Coding] : What is previousElementSibling do ?",
+        answer:　
+        "Returns the previous element of the specified element, in the same tree level.",
+      },
+      {
+        id: 349,
+        question:
+        "[Coding] : What is difference about textContent and innerHtml ?",
+        answer:　
+        "The innerHTML property sets or returns the HTML content (inner HTML) of an element and what we pass in this element will be html support. However textContent is almost the same but it won't return the text as a html.",
+      },
+      {
+        id: 350,
+        question:
+        "[Translate in Jap] :　I increase the letters.",
+        answer:　
+        "字を大きくします。",
+      },
+      {
+        id: 351,
+        question:
+        "[Translate in Jap] :　I clean the room.",
+        answer:　
+        "部屋を綺麗（・きれい）にします。",
+      },
+      {
+        id: 352,
+        question:
+        "[Translate in Jap] :　I'm halving the rice.",
+        answer:　
+        "ご飯を半分にしています。",
+      },
+      {
+        id: 353,
+        question:
+        "[Translate in Jap] :　Because white sweaters are easy to get dirty, i'll choose the pink one.",
+        answer:　
+        "白いセーターは汚れ(・よごれる）やすいので、ビンクにします。",
+      },
+      {
+        id: 354,
+        question:
+        "[Translate in Jap] :　I cut the vegetables into small pieces.",
+        answer:　
+        "野菜(・やさい）を細く（こまかい）切ります（・きる）。",
+      },
+      {
+        id: 355,
+        question:
+        "[Translate in Jap] :　I use the toilet cleanly.",
+        answer:　
+        "トイレを綺麗（・きれい）に使います。",
+      },
+      {
+        id: 356,
+        question:
+        "[Translate in Jap] :　In case you can't participate, please tell me.",
+        answer:　
+        "参加(・さんか）できないばあい（場合）は、言ってください。",
+      },
+      {
+        id: 357,
+        question:
+        "[Translate in Jap] :　In case of fire call 119 please.",
+        answer:　
+        "火事（・かじ）のばあいは119番（・ばん）に電話してください。",
+      },
+      {
+        id: 358,
+        question:
+        "[Translate in Jap] :　Even this restaurant is expensive, it is not delicious. (criticism,surprise)　",
+        answer:　
+        "このレストランは高いのに、美味しくないです。",
+      },
+      {
+        id: 358,
+        question:
+        "[Translate in Jap] :　Even though today is Sunday, I have to work.",
+        answer:　
+        "今日日曜日なのには働かなければなりません。",
+      },
+      {
+        id: 359,
+        question:
+        "[Translate in Jap] :　Even though she promised, she didn't come.",
+        answer:　
+        "約束をしたのに来ませんでした。",
+      },
+      {
+        id: 360,
+        question:
+        "[Translate in Jap46] :　Have you already decided which university to go to　? No, I am in the process of consulting with my teacher.",
+        answer:　
+        "どの大学に行くか、もう決めましたか（・きめる）。いいえ、今先生と相談（・そうだん）しているところです。",
+      },
+      {
+        id: 361,
+        question:
+        "[Translate in Jap] :　Lunch Break",
+        answer:　
+        "昼休み（・ひるやすみ）。",
+      },
+      {
+        id: 362,
+        question:
+        "[Translate in Jap] :　after a long time",
+        answer:　
+        "久しぶり（・ひさしぶり）。",
+      },
+      {
+        id: 363,
+        question:
+        "[Translate in Jap] :　to praise.",
+        answer:　
+        "ほめる。",
+      },
+      {
+        id: 364,
+        question:
+        "[Translate in Jap] :　translation",
+        answer:　
+        "ほんやく",
+      },
+      {
+        id: 365,
+        question:
+        "[Translate in Jap] : mostly",
+        answer:　
+        "ほとんど",
+      },
+      {
+        id: 366,
+        question:
+        "[Translate in Jap] : law",
+        answer:　
+        "ほうりつ",
+      },
+      {
+        id: 367,
+        question:
+        "[Translate in Jap] : to broadcast (diffuser)",
+        answer:　
+        "ほうそう",
+      },
+      {
+        id: 368,
+        question:
+        "[Translate in Jap] : with the exception of / (en dehors de, sauf, excepté)",
+        answer:　
+        "いがい",
+      },
+      {
+        id: 369,
+        question:
+        "[Translate in Jap] : medicine",
+        answer:　
+        "いがく",
+      },
+      {
+        id: 370,
+        question:
+        "[Translate in Jap] : to tease sb. (se moquer/taquiner qqn)",
+        answer:　
+        "いじめる",
+      },
+      {
+        id: 371,
+        question:
+          "Traduis la phrase suivante : Benjamin est connu pour sa générosité et sa gentillesse.",
+        answer:
+          "Benjamin is known for his generosity(djenorositi) and frendliness.", 
+      },
+      {
+        id: 372,
+        question:
+          "Traduis la phrase suivante : Tous les vieux vêtements de ma grand-mère sont stockés dans des malles/coffre dans le grenier.",
+        answer:
+          "All my Grandmother's old clothes are stores in trunks in the attic(aedig).", 
+      },
+      {
+        id: 373,
+        question:
+          "Traduis la phrase suivante : Robert a mis les sacs de coures dans le coffre.",
+        answer:
+          "Robert put the groceries in the trunk.", 
+      },
+      {
+        id: 374,
+        question:
+          "Traduis la phrase suivante : Un nuage de poussière s'éleva dans l'air quand la femme battait le tapis .",
+        answer:
+          "A cloud of dust rose into the air as the woman beat the rug(rag).", 
+      },
+      {
+        id: 375,
+        question:
+          "Traduis la phrase suivante : Un tapis couvrait la majeure partie du sol",
+        answer:
+          "A rug covered most of the floor.", 
+      },
+      {
+        id: 376,
+        question:
+          "Traduis la phrase suivante : Adam a sorti l'aspirateur pour nettoyer apres la fete.",
+        answer:
+          "Adam got the vacuum(vaekium) out to clear up after the party.", 
+      },
+      {
+        id: 377,
+        question:
+          "Traduis la phrase suivante : Earl a acheté une caisse d'oranges au marché.",
+        answer:
+          "Earl bought a crate of oranges at the market.", 
+      },
+      {
+        id: 378,
+        question:
+          "Traduis la phrase suivante : Kyle ouvrit le loquet de la porte.",
+        answer:
+          "Kyle opened the latch(laetch) on the door.", 
+      },
+      {
+        id: 379,
+        question:
+          "Traduis la phrase suivante : Wendy détestait la façon dont sa mère se meler/etre indiscret toujours de sa vie amoureuse. C'est impoli de se mêler des affaires des autres.",
+        answer:
+          "Wendy hated the way her mother was always prying into her love life. It's rude to pry into others business.", 
+      },
+      {
+        id: 380,
+        question:
+          "Traduis la phrase suivante : Le velours (vaelvit) est un tissu doux.",
+        answer:
+          "Velvet(vaelvit) is soft fabric.", 
       },
    
   ];
