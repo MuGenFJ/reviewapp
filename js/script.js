@@ -2652,7 +2652,7 @@ const reviewArray = [
         question:
           "Traduis la phrase suivante : Robert a mis les sacs de coures dans le coffre.",
         answer:
-          "Robert put the groceries in the trunk.", 
+          "Robert put the groceries(gruewceris) in the trunk.", 
       },
       {
         id: 374,
@@ -2702,6 +2702,209 @@ const reviewArray = [
           "Traduis la phrase suivante : Le velours (vaelvit) est un tissu doux.",
         answer:
           "Velvet(vaelvit) is soft fabric.", 
+      },
+      {
+        id: 381,
+        question:
+        "[Translate in Jap] : Has the Baby already slept ? Yes he just slept.",
+        answer:　
+        "赤ちゃんもう寝ましたか。はい、たった今寝たところです。",
+      },
+      {
+        id: 382,
+        question:
+        "[Translate in Jap] : This room has just been cleaned.",
+        answer:　
+        "この部屋は掃除したばかりです。",
+      },
+      {
+        id: 383,
+        question:
+        "[Translate in Jap] : The room is clean because i just clean it up.",
+        answer:　
+        "掃除したばかりなので部屋は綺麗です。",
+      },
+      {
+        id: 384,
+        question:
+        "[Translate in Jap] : The cat got the room dirty even though i just cleaned it.",
+        answer:　
+        "掃除したばかりなのに猫が汚しました。",
+      },
+      {
+        id: 385,
+        question:
+        "[Translate in Jap] : Indonesia should still be very hot.",
+        answer:　
+        "インドネシアは今もすごく熱いはずです。",
+      },
+      {
+        id: 386,
+        question:
+        "[Translate in Jap] : I had lunch only a while ago.",
+        answer:　
+        "さっき昼ごはんを食べたばかりです。",
+      },
+      {
+        id: 387,
+        question:
+        "[Translate in Jap] : Kimura just joined this company last month.",
+        answer:　
+        "きむらさんは先月この会社に入ったばかりです。",
+      },
+      {
+        id: 388,
+        question:
+        "[Translate in Jap] : I bought this video only a week ago, but it isn't working well(wieird,strange).",
+        answer:　
+        "このビデオは先週買ったばかりなのに、調子（・ちょうし）がおかしいです。",
+      },
+      {
+        id: 389,
+        question:
+        "[Translate in Jap] : Will Mira come today? She should come because i had a phone call yesterday.",
+        answer:　
+        "ミラさんは今日来るでしょうか。来るはずですよ、昨日電話がありましたから。",
+      },
+      {
+        id: 390,
+        question:
+        "[Translate in Jap] : According to the weather forecast, it will be sunny tomorrow.",
+        answer:　
+        "天気予報によると明日は晴れだそうです。",
+      },
+      {
+        id: 391,
+        question:
+        "[Translate in Jap] : Not les than, minimum",
+        answer:　
+        "いじょう",
+      },
+      {
+        id: 392,
+        question:
+        "[Translate in Jap] : not exceeding, maximum",
+        answer:　
+        "いか",
+      },
+      {
+        id: 393,
+        question:
+        "[Translate in Jap] : opinion",
+        answer:　
+        "いけん",
+      },
+      {
+        id: 394,
+        question:
+        "[Translate in Jap] : living thing/creature",
+        answer:　
+        "いきもの",
+      },
+      {
+        id: 395,
+        question:
+        "[Translate in Jap] : to live",
+        answer:　
+        "いきる",
+      },
+      {
+        id: 396,
+        question:
+        "[Translate in Jap] : within (au sein de)",
+        answer:　
+        "いない",
+      },
+      {
+        id: 397,
+        question:
+        "[Translate in Jap] : stone",
+        answer:　
+        "いし",
+      },
+      {
+        id: 398,
+        question:
+        "[Translate in Jap] : to do (humble)",
+        answer:　
+        "いたす",
+      },
+      {
+        id: 399,
+        question:
+        "[Translate in Jap] : period",
+        answer:　
+        "じだい",
+      },
+      {
+        id: 400,
+        question:
+        "[Translate in Jap] : jam",
+        answer:　
+        "ジャム",
+      },
+      {
+        id: 401,
+        question:
+          "Traduis la phrase suivante : Je me suis fait taquiner à l'école parce que mes cheveux étaient drôles.",
+        answer:
+          "I got teased at school because my hair locked funny.", 
+      },
+      {
+        id: 402,
+        question:
+          "Traduis la phrase suivante : L'ancienne station de radio ne diffuse plus.",
+        answer:
+          "The old radio station isn't broadcasting anymore.", 
+      },
+      {
+        id: 403,
+        question:
+          "Traduis la phrase suivante : Elle decelle la porte magique.",
+        answer:
+          "She unseals the magic door.", 
+      },
+      {
+        id: 404,
+        question:
+          "Traduis la phrase suivante : Les notes sur son bulletin étaient excellentes.",
+        answer:
+          "The grades on his report card were excellent.", 
+      },
+      {
+        id: 405,
+        question:
+          "Traduis la phrase suivante : Dans les années 80, les pantalons à pattes d'elephant étaient une tendance.",
+        answer:
+          "In the 80's bell-bottom slacks was a trend.", 
+      },
+      {
+        id: 406,
+        question:
+          "Traduis la phrase suivante : Il y avait une odeur repugante/degoutante provenant des égouts.",
+        answer:
+          "There was a gross smell coming from the drains.", 
+      },
+      {
+        id: 407,
+        question:
+          "Traduis la phrase suivante : Jenny pense que les papillions de nuits sont repugnants/degoutants.",
+        answer:
+          "Jenny thinks that moths(mofs) are gross.", 
+      },
+      {
+        id: 408,
+        question:
+          "Traduis la phrase suivante : Joe a acheté un canapé en tissu.",
+        answer:
+          "Joe bought a fabric couch.", 
+      },
+      {
+        id: 409,
+        question:
+          "Traduis la phrase suivante : Le patron de Tim a toujours voulu savoir tout ce que Tim faisait en dehors du travail. Il était toujours indiscret et Tim détestait ça.",
+        answer:
+          "Tim's boss always wanted to know everything Tim got up to outside of work. He always prying and Tim hated it.", 
       },
    
   ];
