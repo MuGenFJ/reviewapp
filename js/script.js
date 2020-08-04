@@ -2902,9 +2902,226 @@ const reviewArray = [
       {
         id: 409,
         question:
-          "Traduis la phrase suivante : Le patron de Tim a toujours voulu savoir tout ce que Tim faisait en dehors du travail. Il était toujours indiscret et Tim détestait ça.",
+          "Traduis la phrase suivante :Le patron de Tim a toujours voulu savoir tout ce que Tim faisait en dehors du travail. Il était toujours indiscret et Tim détestait ça..",
         answer:
           "Tim's boss always wanted to know everything Tim got up to outside of work. He always prying and Tim hated it.", 
+      },
+      {
+        id: 410,
+        question:
+          "Traduis la phrase suivante : Quelqu'un a laissé la fenêtre ouverte et la maison est pleine d'insectes maintenant!",
+        answer:
+          "Someone left the window open and now the house is full of bugs!", 
+      },
+      {
+        id: 411,
+        question:
+        "[Coding] : What does the function insertAdjacentHTML() do ?",
+        answer:　
+        "Inserts a text as HTML, into a specified position. ex: element.insertAdjacentHTML(afterend, <p>My new paragraph</p>) 1st params the position and 2nd what we want to insert ; ",
+      },
+      {
+        id: 412,
+        question:
+        "[Coding] : What does the function toLocalDateString() do ?",
+        answer:　
+        "converts the date of a Date object into a readable string ; ",
+      },
+      {
+        id: 413,
+        question:
+        "[Coding] : What does the function switch do ?",
+        answer:　
+        "The switch statement is used to perform different actions based on different conditions. (Case1, Case2..) ; ",
+      },
+      {
+        id: 414,
+        question:
+        "[Translate in Jap] : I suppose that there was an accident.",
+        answer:　
+        "じこがあったようです。",
+      },
+      {
+        id: 415,
+        question:
+        "[Translate in Jap] : I suppose that this animal is a dog.",
+        answer:　
+        "この動物は犬ようです。",
+      },
+      {
+        id: 416,
+        question:
+        "[Translate in Jap] : The mom allowed her daughter to go shopping.",
+        answer:　
+        "お母さんは娘を買い物に行かせました。",
+      },
+      {
+        id: 417,
+        question:
+        "[Translate in Jap] : The department manager makes Mr. Kato go to Osaka on business trip.",
+        answer:　
+        "部長はかとさんを大阪へ出張（・しゅっちょう）させます。 ",
+      },
+      {
+        id: 418,
+        question:
+        "[Translate in Jap] : I am busy in the morning, so I make my daughter help prepare breakfast.",
+        answer:　
+        "朝は忙しいですから、娘に朝ごはんの準備（・じゅんび）を手伝わせます。",
+      },
+      {
+        id: 419,
+        question:
+        "[Translate in Jap] : The teacher let the schoolchild freely give their opinions.",
+        answer:　
+        "先生は生徒に自由に意見を言わせました。",
+      },
+      {
+        id: 420,
+        question:
+        "[Translate in Jap] : Mom made his daughter open the window.",
+        answer:　
+        "お母さんは娘にまどを開けさせました。",
+      },
+      {
+        id: 421,
+        question:
+        "[Translate in Jap] : accident",
+        answer:　
+        "じこ",
+      },
+      {
+        id: 422,
+        question:
+        "[Translate in Jap] : office",
+        answer:　
+        "じむしょ",
+      },
+      {
+        id: 423,
+        question:
+        "[Translate in Jap] : shinto shrine",
+        answer:　
+        "じんじゃ",
+      },
+      {
+        id: 424,
+        question:
+        "[Translate in Jap] : human life",
+        answer:　
+        "じんせい",
+      },
+      {
+        id: 425,
+        question:
+        "[Translate in Jap] : dictionary",
+        answer:　
+        "じてん、じしょ",
+      },
+      {
+        id: 426,
+        question:
+        "[Translate in Jap] : woman/female",
+        answer:　
+        "じょせい",
+      },
+      {
+        id: 427,
+        question:
+        "[Translate in Jap] : enough/sufficient",
+        answer:　
+        "じゅうぶん",
+      },
+      {
+        id: 428,
+        question:
+        "[Translate in Jap] : address",
+        answer:　
+        "じゅうしょ",
+      },
+      {
+        id: 429,
+        question:
+        "[Translate in Jap] : wall",
+        answer:　
+        "かべ",
+      },
+      {
+        id: 430,
+        question:
+        "[Translate in Jap] : to change/transform",
+        answer:　
+        "かえる",
+      },
+      {
+        id: 431,
+        question:
+          "Traduis la phrase suivante :Les cartes à jouer sont constituées de papier recouvert d'une couche de plastique pour les protéger.",
+        answer:
+          "The playing cards are made of paper with a layer of plastic to protect them.", 
+      },
+      {
+        id: 432,
+        question:
+          "Traduis la phrase suivante : Après s'être cassé le dos, les jambes de Kate étaient definitivement paralysées.",
+        answer:
+          "After she broke her back Kate's legs were permanently(perme-naentli) numb.", 
+      },
+      {
+        id: 433,
+        question:
+          "Traduis la phrase suivante : Quand Kate s'est reveille sa main etait paralyse car elle a dormi dessus.",
+        answer:
+          "When Kate woke up, her arm was completely numb(nam) because she had slept on it.", 
+      },
+      {
+        id: 434,
+        question:
+          "Traduis la phrase suivante : Martha claquait des dents à cause du froid.",
+        answer:
+          "Martha's teeth chattered because of the cold.", 
+      },
+      {
+        id: 435,
+        question:
+          "Traduis la phrase suivante : Ici, la profondeur de la rivière dépasse les cent mètres.",
+        answer:
+          "The river's depth(daept) in this spot is over one hundred metres.", 
+      },
+      {
+        id: 436,
+        question:
+          "Traduis la phrase suivante : Le chevalier parta dans sa quete avec sa fidele epouse pour compagnon.",
+        answer:
+          "The knight(nait) set out on his quest with only his faithful wife for company.", 
+      },
+      {
+        id: 437,
+        question:
+          "Traduis la phrase suivante : Ils sont partis pour Londres tôt le lendemain matin.",
+        answer:
+          "They set out for London early the following day.", 
+      },
+      {
+        id: 438,
+        question:
+          "Traduis la phrase suivante : Nous avons tous subi des répercussions suite à l'accident.",
+        answer:
+          "Every single one of us is feeling the repercussions(ri-peka-chens) of the crash.", 
+      },
+      {
+        id: 439,
+        question:
+          "Traduis la phrase suivante : Cette émission de télé permet à des gens de retrouver des membres de leur famille qu'ils n'avaient pas vus depuis des décennies.",
+        answer:
+          "This TV show reunites(riyunaits) relatives who haven't seen each other for decades.", 
+      },
+      {
+        id: 440,
+        question:
+          "Traduis la phrase suivante : Après une longue dispute/debat avec ma fille, j'ai finalement consenti et je l'ai laissée faire ce qu'elle voulait.",
+        answer:
+          "After a long argument with my daughter, i finally acquiesced(ae-kwi-st) and let her have her way.", 
       },
    
   ];
