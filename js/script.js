@@ -3123,6 +3123,230 @@ const reviewArray = [
         answer:
           "After a long argument with my daughter, i finally acquiesced(ae-kwi-st) and let her have her way.", 
       },
+      {
+        id: 441,
+        question:
+        "[Translate in Jap] : The father allowed his son to go play.",
+        answer:　
+        "お父さんは息子に遊びに行かせました。",
+      },
+      {
+        id: 442,
+        question:
+        "[Translate in Jap] : The chef of department went home.",
+        answer:　
+        "部長は帰られました。",
+      },
+      {
+        id: 443,
+        question:
+        "[Translate in Jap] : Teacher, have you stopped drinking alcohol ? ",
+        answer:　
+        "先生、お酒をやめられたんでか？（辞める）",
+      },
+      {
+        id: 444,
+        question:
+        "[Translate in Jap] : The teacher will come at 7am. ",
+        answer:　
+        "先生は7時に来られます。",
+      },
+      {
+        id: 445,
+        question:
+        "[Translate in Jap 49] : The president of the company has already left for home. ",
+        answer:　
+        "社長はもうお帰りになりました。(very polite form)",
+      },
+      {
+        id: 446,
+        question:
+        "[Translate in Jap 49] : Salary: Boss are you drinking coffee? Boss: Yes, i drink. ",
+        answer:　
+        "コーヒーをお飲みになりましたか。・ええ、飲みます。",
+      },
+      {
+        id: 447,
+        question:
+        "[Translate in Jap 49] : The professor is in the office. ",
+        answer:　
+        "先生は事務所にいらっしゃいます。",
+      },
+      {
+        id: 448,
+        question:
+        "[Translate in Jap 49] : Please eat as much you need. ",
+        answer:　
+        "どうぞう召し上がってください。",
+      },
+      {
+        id: 449,
+        question:
+        "[Translate in Jap 49] : Is the professor play tennis? No, i think he doesn't.",
+        answer:　
+        "先生はテニスをなさいますか。　いいえ、なさらないと思います。",
+      },
+      {
+        id: 450,
+        question:
+        "[Translate in Jap 49] : Please wait over there. (very polite)",
+        answer:　
+        "あちらでお待ちください。(very polite)",
+      },
+      {
+        id: 451,
+        question:
+        "[Translate in Jap] : science",
+        answer:　
+        "かがく",
+      },
+      {
+        id: 452,
+        question:
+        "[Translate in Jap] : coast(cote,bord de la mer)",
+        answer:　
+        "かいがん",
+      },
+      {
+        id: 453,
+        question:
+        "[Translate in Jap] : assembly hall, meeting place (lieu de reunion)",
+        answer:　
+        "かいじょう",
+      },
+      {
+        id: 454,
+        question:
+        "[Translate in Jap] : fire",
+        answer:　
+        "かじ",
+      },
+      {
+        id: 454,
+        question:
+        "[Translate in Jap] : to bite/ to chew",
+        answer:　
+        "かむ",
+      },
+      {
+        id: 455,
+        question:
+        "[Translate in Jap] : always/certainly/withou exception",
+        answer:　
+        "かならず",
+      },
+      {
+        id: 456,
+        question:
+        "[Translate in Jap] : to think",
+        answer:　
+        "かんがえる",
+      },
+      {
+        id: 457,
+        question:
+        "[Translate in Jap] : relationship",
+        answer:　
+        "かんけい",
+      },
+      {
+        id: 457,
+        question:
+        "[Translate in Jap] : they, them",
+        answer:　
+        "かれら",
+      },
+      {
+        id: 458,
+        question:
+        "[Translate in Jap] : to tidy up, to put in order (ranger,ordonner)",
+        answer:　
+        "かたづける",
+      },
+      {
+        id: 459,
+        question:
+        "[Translate in Jap] : to get dry",
+        answer:　
+        "かわく",
+      },
+      {
+        id: 460,
+        question:
+        "[Translate in Jap] : instead/ in place",
+        answer:　
+        "かわり",
+      },
+      {
+        id: 461,
+        question:
+          "Traduis la phrase suivante : Je n'ai pas la moindre notion d'histoire grecque.",
+        answer:
+          "I don't know anything whatsoever about Greek history.", 
+      },
+      {
+        id: 462,
+        question:
+          "Traduis la phrase suivante : Ces plantes ont besoin d'une terre riche qui conserve l'hydradation.",
+        answer:
+          "These plants need a rich soil that retains moisture.(moischia)", 
+      },
+      {
+        id: 463,
+        question:
+          "Traduis la phrase suivante : John est né et a été élevé dans une ferme ; c'est un véritable homme de la terre.",
+        answer:
+          "John was born and brought up on a farm, he's a real man of the soil.", 
+      },
+      {
+        id: 464,
+        question:
+          "Traduis la phrase suivante : Irene a gardé/conserve la clé au cas où elle en aurait besoin à l'avenir.",
+        answer:
+          "Irene retained the key in case she needed it again in the future.", 
+      },
+      {
+        id: 465,
+        question:
+          "Traduis la phrase suivante : Ce restaurant prépare des plats à emporter mais ne fait pas traiteur.",
+        answer:
+          "That restaurant also offers a take-out service, but they don't cater(kaeide)", 
+      },
+      {
+        id: 466,
+        question:
+          "Traduis la phrase suivante : Le pont doit supporter le poids des voitures et des camions.",
+        answer:
+          "The bridge must bear the weight of the cars and trucks.", 
+      },
+      {
+        id: 467,
+        question:
+          "Traduis la phrase suivante : Ted travaille comme ouvrier agricole dans les champs et passe toute sa journée au soleil.",
+        answer:
+          "Ted works as a laborer(laeibore) in the field and spends all day in the sun.", 
+      },
+      {
+        id: 468,
+        question:
+          "Traduis la phrase suivante : Ils ont démarré dans la vente en gros, mais depuis peu, ils ont ouvert une boutique de vente au détail.",
+        answer:
+          "They started out in wholesale, but recently they opened a retail store.", 
+      },
+      {
+        id: 469,
+        question:
+          "Traduis la phrase suivante : Oliver a servi des coquilles Saint Jacques comme entrée à ses invités.",
+        answer:
+          "Oliver served his guests scallops as a starter.", 
+      },
+      {
+        id: 470,
+        question:
+          "Traduis la phrase suivante : J'ai commandé des escargots au beurre ailé en entrée.",
+        answer:
+          "I ordered snails in garlic butter for my starter.", 
+      },
    
   ];
 
