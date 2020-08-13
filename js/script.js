@@ -3142,7 +3142,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : Teacher, have you stopped drinking alcohol ? ",
         answer:　
-        "先生、お酒をやめられたんでか？（辞める）",
+        "先生、お酒をやめられたんですか？（止める）",
       },
       {
         id: 444,
@@ -3231,7 +3231,7 @@ const reviewArray = [
       {
         id: 455,
         question:
-        "[Translate in Jap] : always/certainly/withou exception",
+        "[Translate in Jap] : always/certainly/without exception",
         answer:　
         "かならず",
       },
@@ -3280,7 +3280,7 @@ const reviewArray = [
       {
         id: 461,
         question:
-          "Traduis la phrase suivante : Je n'ai pas la moindre notion d'histoire grecque.",
+          "Traduis la phrase suivante : Je ne connais quoi que ce soit a propos d'histoire grecque.",
         answer:
           "I don't know anything whatsoever about Greek history.", 
       },
@@ -3301,14 +3301,14 @@ const reviewArray = [
       {
         id: 464,
         question:
-          "Traduis la phrase suivante : Irene a gardé/conserve la clé au cas où elle en aurait besoin à l'avenir.",
+          "Traduis la phrase suivante : Irene a gardé/conserve la clé au cas où elle en aurait besoin de nouveau à l'avenir.",
         answer:
           "Irene retained the key in case she needed it again in the future.", 
       },
       {
         id: 465,
         question:
-          "Traduis la phrase suivante : Ce restaurant prépare des plats à emporter mais ne fait pas traiteur.",
+          "Traduis la phrase suivante : Ce restaurant offre aussi un service de plats à emporter mais ne fait pas traiteur.",
         answer:
           "That restaurant also offers a take-out service, but they don't cater(kaeide)", 
       },
@@ -3346,6 +3346,216 @@ const reviewArray = [
           "Traduis la phrase suivante : J'ai commandé des escargots au beurre ailé en entrée.",
         answer:
           "I ordered snails in garlic butter for my starter.", 
+      },
+      {
+        id: 471,
+        question:
+          "Traduis la phrase suivante : Je ne connais quoi que ce soit a propos d'histoire grecque.",
+        answer:
+          "I don't know anything whatsoever about Greek history.", 
+      },
+      {
+        id: 472,
+        question:
+        "[Translate in Jap 49] : Dear Customers, please be carful of lost items.",
+        answer:　
+        "おきゃくさま、忘れ物にごちゅういください。",
+      },
+      {
+        id: 473,
+        question:
+        "[Translate in Jap 49] :　The wife of the manager will also go golf together.",
+        answer:　
+        "部長のおくさまもご一緒にゴルフに行かれます。",
+      },
+      {
+        id: 474,
+        question:
+        "[Translate in Jap 49] :　Last night Hans got a fever, and this night it still hasn't gone down. (very polite form)",
+        answer:　
+        "ハンスさんがゆうべねつを出しまして、けさもまださがらないんです。（さがる・to drop down)",
+      },
+      {
+        id: 475,
+        question:
+        "[Translate in Jap 50] :　It looks so heavy. Shall I carry it for your? (polite form)",
+        answer:　
+        "おもいそうですね。おもちしましょうか。",
+      },
+      {
+        id: 476,
+        question:
+        "[Translate in Jap 50] :　I will inform/notify the president the schedule. (polite form)",
+        answer:　
+        "私が社長にスケジュールをおしらせします。",
+      },
+      {
+        id: 477,
+        question:
+        "[Translate in Jap 50] :　My elder brother will escort you in his car.",
+        answer:　
+        "あにが車でおくりします。（送る・escort/send)",
+      },
+      {
+        id: 478,
+        question:
+        "[Translate in Jap 50] :　The phone is next to the stairs.",
+        answer:　
+        "電話はかいだんのよこにございます。",
+      },
+      {
+        id: 479,
+        question:
+        "[Translate in Jap 50] :　This is Schimdt of PowerElectric. May I speak to Mr. Miller ?",
+        answer:　
+        "パワー電気のシュミットですが、みらーさん、おねがいします。",
+      },
+      {
+        id: 480,
+        question:
+        "[Translate in Jap 50] :　What do you want to drink ? (polite form)",
+        answer:　
+        "お飲み物は何がよろしいでしょうか。",
+      },
+      {
+        id: 481,
+        question:
+        "[Translate in Jap] :　to change",
+        answer:　
+        "かわる",
+      },
+      {
+        id: 482,
+        question:
+        "[Translate in Jap] :　to commute (faire la navette de son domicile au travail).",
+        answer:　
+        "かよう",
+      },
+      {
+        id: 483,
+        question:
+        "[Translate in Jap] :　to decorate",
+        answer:　
+        "かざる",
+      },
+      {
+        id: 484,
+        question:
+        "[Translate in Jap] :　hair / fur(fourure, pelage)",
+        answer:　
+        "け",
+      },
+      {
+        id: 485,
+        question:
+        "[Translate in Jap] :　project/plan",
+        answer:　
+        "けいかく",
+      },
+      {
+        id: 486,
+        question:
+        "[Translate in Jap] :　experience",
+        answer:　
+        "けいけん",
+      },
+      {
+        id: 487,
+        question:
+        "[Translate in Jap] : finance/economy",
+        answer:　
+        "けいざい",
+      },
+      {
+        id: 488,
+        question:
+        "[Translate in Jap] : sightseeing, visit",
+        answer:　
+        "けんぶつ",
+      },
+      {
+        id: 489,
+        question:
+        "[Translate in Jap] : to quarrel, fight",
+        answer:　
+        "けんか",
+      },
+      {
+        id: 490,
+        question:
+        "[Translate in Jap] : eraser",
+        answer:　
+        "けしごむ",
+      },
+      {
+        id: 491,
+        question:
+          "Traduis la phrase suivante : Notre fils dort dans le berceau dans lequel j'ai dormi quand j'étais bébé.",
+        answer:
+          "Our son sleeps in the cradle(creadel) that I slept in when I was a baby.", 
+      },
+      {
+        id: 492,
+        question:
+          "Traduis la phrase suivante : La petite fille bercait le chat.",
+        answer:
+          "The little girl cradled the kitten in her arms.", 
+      },
+      {
+        id: 493,
+        question:
+          "Traduis la phrase suivante : L'enseignant a dit à Bobby s'arrêter de faire l'imbécile (or: l'idiot) en classe.",
+        answer:
+          "The teacher told Bobby to stop fooling around in class.", 
+      },
+      {
+        id: 494,
+        question:
+          "Traduis la phrase suivante : Elle a joué une pièce bouffonne dans laquelle elle tombait d'une chaise.",
+        answer:
+          "She did a slapstick(slaepstick) piece in which she fell over a chair.", 
+      },
+      {
+        id: 495,
+        question:
+          "Traduis la phrase suivante : L'avocate a utilisé des arguments subtils pour influencer/se balancer le jury de prendre le parti en faveur de son client.",
+        answer:
+          "The lawyer used subtle(sadel) arguments to sway the jury in her client's favour.", 
+      },
+      {
+        id: 496,
+        question:
+          "Traduis la phrase suivante : Jessica était certaine d'avoir raison, mais au bout du compte, les arguments de Dawn l'ont influencée et elle a changé d'avis.",
+        answer:
+          "Jessica was sure she was right but in the end, Dawn's arguments swayed her and she changed her mind.", 
+      },
+      {
+        id: 497,
+        question:
+          "Traduis la phrase suivante : Vous devrez adapter/orienter ces publicités à une cible plus jeune.",
+        answer:
+          "You should gear the advertissements to a younger demographic/target.", 
+      },
+      {
+        id: 498,
+        question:
+          "Traduis la phrase suivante : Comme ces 2 livres diffèrent l'un de l'autre, tu devrais absolument lire les deux.",
+        answer:
+          "As the two books on this subject differ so much, you should definitely read them both.", 
+      },
+      {
+        id: 499,
+        question:
+          "Des problèmes avec vos ados ? Je peux comprendre/m'idendtifier complètement a ca.",
+        answer:
+          "Problems with your teenage children ? - I can certainly relate to that.", 
+      },
+      {
+        id: 500,
+        question:
+          "L'enfant ne peut ni causer le divorce ou l'empecher.",
+        answer:
+          "Children neither cause the divorce, nor can they prevent it.", 
       },
    
   ];
