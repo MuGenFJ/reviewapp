@@ -2482,112 +2482,112 @@ const reviewArray = [
       {
         id: 350,
         question:
-        "[Translate in Jap] :　I increase the letters.",
+        "[Translate in Jap] : I increase the letters.",
         answer:　
         "字を大きくします。",
       },
       {
         id: 351,
         question:
-        "[Translate in Jap] :　I clean the room.",
+        "[Translate in Jap] : I clean the room.",
         answer:　
         "部屋を綺麗（・きれい）にします。",
       },
       {
         id: 352,
         question:
-        "[Translate in Jap] :　I'm halving the rice.",
+        "[Translate in Jap] : I'm halving the rice.",
         answer:　
         "ご飯を半分にしています。",
       },
       {
         id: 353,
         question:
-        "[Translate in Jap] :　Because white sweaters are easy to get dirty, i'll choose the pink one.",
+        "[Translate in Jap] : Because white sweaters are easy to get dirty, i'll choose the pink one.",
         answer:　
         "白いセーターは汚れ(・よごれる）やすいので、ビンクにします。",
       },
       {
         id: 354,
         question:
-        "[Translate in Jap] :　I cut the vegetables into small pieces.",
+        "[Translate in Jap] : I cut the vegetables into small pieces.",
         answer:　
         "野菜(・やさい）を細く（こまかい）切ります（・きる）。",
       },
       {
         id: 355,
         question:
-        "[Translate in Jap] :　I use the toilet cleanly.",
+        "[Translate in Jap] : I use the toilet cleanly.",
         answer:　
         "トイレを綺麗（・きれい）に使います。",
       },
       {
         id: 356,
         question:
-        "[Translate in Jap] :　In case you can't participate, please tell me.",
+        "[Translate in Jap] : In case you can't participate, please tell me.",
         answer:　
         "参加(・さんか）できないばあい（場合）は、言ってください。",
       },
       {
         id: 357,
         question:
-        "[Translate in Jap] :　In case of fire call 119 please.",
+        "[Translate in Jap] : In case of fire call 119 please.",
         answer:　
         "火事（・かじ）のばあいは119番（・ばん）に電話してください。",
       },
       {
         id: 358,
         question:
-        "[Translate in Jap] :　Even this restaurant is expensive, it is not delicious. (criticism,surprise)　",
+        "[Translate in Jap] : Even this restaurant is expensive, it is not delicious. (criticism,surprise)　",
         answer:　
         "このレストランは高いのに、美味しくないです。",
       },
       {
         id: 358,
         question:
-        "[Translate in Jap] :　Even though today is Sunday, I have to work.",
+        "[Translate in Jap] : Even though today is Sunday, I have to work.",
         answer:　
         "今日日曜日なのには働かなければなりません。",
       },
       {
         id: 359,
         question:
-        "[Translate in Jap] :　Even though she promised, she didn't come.",
+        "[Translate in Jap] : Even though she promised, she didn't come.",
         answer:　
         "約束をしたのに来ませんでした。",
       },
       {
         id: 360,
         question:
-        "[Translate in Jap46] :　Have you already decided which university to go to　? No, I am in the process of consulting with my teacher.",
+        "[Translate in Jap46] : Have you already decided which university to go to　? No, I am in the process of consulting with my teacher.",
         answer:　
         "どの大学に行くか、もう決めましたか（・きめる）。いいえ、今先生と相談（・そうだん）しているところです。",
       },
       {
         id: 361,
         question:
-        "[Translate in Jap] :　Lunch Break",
+        "[Translate in Jap] : Lunch Break",
         answer:　
         "昼休み（・ひるやすみ）。",
       },
       {
         id: 362,
         question:
-        "[Translate in Jap] :　after a long time",
+        "[Translate in Jap] : after a long time",
         answer:　
         "久しぶり（・ひさしぶり）。",
       },
       {
         id: 363,
         question:
-        "[Translate in Jap] :　to praise.",
+        "[Translate in Jap] : to praise.",
         answer:　
         "ほめる。",
       },
       {
         id: 364,
         question:
-        "[Translate in Jap] :　translation",
+        "[Translate in Jap] : translation",
         answer:　
         "ほんやく",
       },
@@ -2699,7 +2699,7 @@ const reviewArray = [
       {
         id: 380,
         question:
-          "Traduis la phrase suivante : Le velours (vaelvit) est un tissu doux.",
+          "Traduis la phrase suivante : Le velours est un tissu doux.",
         answer:
           "Velvet(vaelvit) is soft fabric.", 
       },
@@ -2755,7 +2755,7 @@ const reviewArray = [
       {
         id: 388,
         question:
-        "[Translate in Jap] : I bought this video only a week ago, but it isn't working well(wieird,strange).",
+        "[Translate in Jap] : Although I bought this video only a week ago, it isn't working well(wieird,strange).",
         answer:　
         "このビデオは先週買ったばかりなのに、調子（・ちょうし）がおかしいです。",
       },
@@ -2846,7 +2846,7 @@ const reviewArray = [
       {
         id: 401,
         question:
-          "Traduis la phrase suivante : Je me suis fait taquiner à l'école parce que mes cheveux étaient drôles.",
+          "Traduis la phrase suivante : Je me suis fait taquiner à l'école parce que mes cheveux avaient l'air drôle.",
         answer:
           "I got teased at school because my hair locked funny.", 
       },
@@ -3077,7 +3077,7 @@ const reviewArray = [
       {
         id: 434,
         question:
-          "Traduis la phrase suivante : Martha claquait des dents à cause du froid.",
+          "Traduis la phrase suivante : Les dents de Martha claquait à cause du froid.",
         answer:
           "Martha's teeth chattered because of the cold.", 
       },
@@ -3168,16 +3168,16 @@ const reviewArray = [
       {
         id: 447,
         question:
-        "[Translate in Jap 49] : The professor is in the office. ",
+        "[Translate in Jap 49] : The professor is in the office.",
         answer:　
         "先生は事務所にいらっしゃいます。",
       },
       {
         id: 448,
         question:
-        "[Translate in Jap 49] : Please eat as much you need. ",
+        "[Translate in Jap 49] : Please eat as much you need.",
         answer:　
-        "どうぞう召し上がってください。",
+        "どうぞうめしあがってください。",
       },
       {
         id: 449,
@@ -3364,63 +3364,63 @@ const reviewArray = [
       {
         id: 473,
         question:
-        "[Translate in Jap 49] :　The wife of the manager will also go golf together.",
+        "[Translate in Jap 49] : The wife of the manager will also go golf together.",
         answer:　
         "部長のおくさまもご一緒にゴルフに行かれます。",
       },
       {
         id: 474,
         question:
-        "[Translate in Jap 49] :　Last night Hans got a fever, and this night it still hasn't gone down. (very polite form)",
+        "[Translate in Jap 49] : Last night Hans got a fever, and this morning it still hasn't gone down.",
         answer:　
         "ハンスさんがゆうべねつを出しまして、けさもまださがらないんです。（さがる・to drop down)",
       },
       {
         id: 475,
         question:
-        "[Translate in Jap 50] :　It looks so heavy. Shall I carry it for your? (polite form)",
+        "[Translate in Jap 50] : It looks so heavy. Shall I carry it for your? (polite form for helping)",
         answer:　
         "おもいそうですね。おもちしましょうか。",
       },
       {
         id: 476,
         question:
-        "[Translate in Jap 50] :　I will inform/notify the president the schedule. (polite form)",
+        "[Translate in Jap 50] : I will inform/notify the president the schedule. (very polite form)",
         answer:　
         "私が社長にスケジュールをおしらせします。",
       },
       {
         id: 477,
         question:
-        "[Translate in Jap 50] :　My elder brother will escort you in his car.",
+        "[Translate in Jap 50] : My elder brother will escort you in his car. (very polite)",
         answer:　
         "あにが車でおくりします。（送る・escort/send)",
       },
       {
         id: 478,
         question:
-        "[Translate in Jap 50] :　The phone is next to the stairs.",
+        "[Translate in Jap 50] : The phone is next to the stairs. (very polite form to customers)",
         answer:　
         "電話はかいだんのよこにございます。",
       },
       {
         id: 479,
         question:
-        "[Translate in Jap 50] :　This is Schimdt of PowerElectric. May I speak to Mr. Miller ?",
+        "[Translate in Jap 50] : This is Schimdt of PowerElectric. May I speak to Mr. Miller ?",
         answer:　
         "パワー電気のシュミットですが、みらーさん、おねがいします。",
       },
       {
         id: 480,
         question:
-        "[Translate in Jap 50] :　What do you want to drink ? (polite form)",
+        "[Translate in Jap 50] : What do you want to drink ? (very polite form)",
         answer:　
         "お飲み物は何がよろしいでしょうか。",
       },
       {
         id: 481,
         question:
-        "[Translate in Jap] :　to change",
+        "[Translate in Jap] : to change",
         answer:　
         "かわる",
       },
@@ -3504,7 +3504,7 @@ const reviewArray = [
       {
         id: 493,
         question:
-          "Traduis la phrase suivante : L'enseignant a dit à Bobby s'arrêter de faire l'imbécile (or: l'idiot) en classe.",
+          "Traduis la phrase suivante : L'enseignant a dit à Bobby de s'arrêter de faire l'imbécile (or: l'idiot) en classe.",
         answer:
           "The teacher told Bobby to stop fooling around in class.", 
       },
@@ -3557,6 +3557,217 @@ const reviewArray = [
         answer:
           "Children neither cause the divorce, nor can they prevent it.", 
       },
+      {
+        id: 501,
+        question:
+        "[Translate in Jap] : This work, after 1hour will you finish it soon? - No, it will still not finish in 1hour",
+        answer:　
+        "その仕事、あと一時間で終わりそうですか。(smth will happen soon)・いいえ、一時間では終わりそうもありません。",
+      },
+      {
+        id: 502,
+        question:
+        "[Translate in Jap] : What is the 3 honorific form and give some short details?",
+        answer:　
+        "ていねいご（・ます form), そんけいご（・られる or very polite お帰りなります), けんじょうご (use to humble yourself or lower your rank)",
+      },
+      {
+        id: 503,
+        question:
+        "[Translate in Jap] : How do you give an order ex: please wait over there, to a customer in a very polite form?",
+        answer:　
+        "あちらでお待ちください。",
+      },
+      {
+        id: 504,
+        question:
+        "[Translate in Jap] : The manager won't participate the meeting. (polite form)",
+        answer:　
+        "部長はさんかされません。",
+      },
+      {
+        id: 505,
+        question:
+        "[Translate in Jap] : The manager didn't drink alcohol. (polite form)",
+        answer:　
+        "部長はお酒飲まれませんでした。",
+      },
+      {
+        id: 506,
+        question:
+        "[Translate in Jap] : What Time will you take the shinkansen. (very polite).",
+        answer:　
+        "何時間のしんかんせんにお乗りになりますか。",
+      },
+      {
+        id: 507,
+        question:
+        "[Translate in Jap] : Where did you bought your shoes? (very polite).",
+        answer:　
+        "どちらでくつをお買いになりましたか。",
+      },
+      {
+        id: 508,
+        question:
+        "[Translate in Jap] : 部長は何を食べますか。(translate in very polite).",
+        answer:　
+        "部長は何をめしあがりますか。",
+      },
+      {
+        id: 509,
+        question:
+        "[Translate in Jap] : 部長はゴルフをしますか。(translate in very polite).",
+        answer:　
+        "部長はゴルフをなさいますか。",
+      },
+      {
+        id: 510,
+        question:
+        "[Translate in Jap] :（行きます、来ます、います）、いいます、知っています、見ます、します、くれます、（食べます、飲みます）、あります、何がほしい。(in very polite form).",
+        answer:　
+        "(いらっしゃいます)、おっしゃいます、ごぞんじです、ごらんになります、なさいます、くださいます、（めいしあがります）、何がよろしいでしょうか",
+      },
+      {
+        id: 511,
+        question:
+        "[Translate in Jap] : scenery",
+        answer:　
+        "けしき",
+      },
+      {
+        id: 512,
+        question:
+        "[Translate in Jap] : spirit",
+        answer:　
+        "き",
+      },
+      {
+        id: 513,
+        question:
+        "[Translate in Jap] : strict",
+        answer:　
+        "きびしい",
+      },
+      {
+        id: 514,
+        question:
+        "[Translate in Jap] : chance, opportunity",
+        answer:　
+        "きかい",
+      },
+      {
+        id: 515,
+        question:
+        "[Translate in Jap] : danger",
+        answer:　
+        "きけん",
+      },
+      {
+        id: 516,
+        question:
+        "[Translate in Jap] : to be heard, to be audible",
+        answer:　
+        "きこえる",
+      },
+      {
+        id: 517,
+        question:
+        "[Translate in Jap] : to be decided",
+        answer:　
+        "きまる",
+      },
+      {
+        id: 518,
+        question:
+        "[Translate in Jap] : to decide",
+        answer:　
+        "きめる",
+      },
+      {
+        id: 519,
+        question:
+        "[Translate in Jap] : feeling",
+        answer:　
+        "きもち",
+      },
+      {
+        id: 520,
+        question:
+        "[Translate in Jap] : neighbourhood",
+        answer:　
+        "きんじょ",
+      },
+      {
+        id: 521,
+        question:
+          "Il y a beaucoup de rebondissements dans le roman policier que je suis en train de lire.",
+        answer:
+          "There are a lot of twists and turns in the crime novel i'm reading.", 
+      },
+      {
+        id: 522,
+        question:
+          "La famille avait un réservoir d'eau qui durerait jusqu'à ce que la principale source soit reconnectée.",
+        answer:
+          "The family had a tank of water to last them until the mains supply was reconnected.", 
+      },
+      {
+        id: 523,
+        question:
+          "Les plantes ne peuvent pas pousser dans les profondeurs de le l'ocean car il n'a pas the rayon de solair.",
+        answer:
+          "Plants cannot grow in the deep sea because there is no sunlight.", 
+      },
+      {
+        id: 524,
+        question:
+          "Ma nouvelle voiture est spacieuse pour une très petite voiture.",
+        answer:
+          "My new car is roomy for subcomplact.", 
+      },
+      {
+        id: 525,
+        question:
+          "Il y a une tache de ketchup sur ta chemise.",
+        answer:
+          "There is a ketchup spot on your shirt there.", 
+      },
+      {
+        id: 526,
+        question:
+          "Le poisson avait une nageoire endommagée et ne pouvait pas nager aussi vite que les autres.",
+        answer:
+          "The fish had damaged fin and couldn't swim as fast as the others.", 
+      },
+      {
+        id: 527,
+        question:
+          "Les couleurs vives du coucher de soleil étaient belles à contempler.",
+        answer:
+          "The vivid colours of the sunset were beautiful to behold.", 
+      },
+      {
+        id: 528,
+        question:
+          "Nous avons été emerveilles quand nous avons contemplé les montagnes pour la première fois.",
+        answer:
+          "We were in awe when we first beheld the Mountains.", 
+      },
+      {
+        id: 529,
+        question:
+          "Les enfants fixaient le paysage avec émerveillement.",
+        answer:
+          "The children stared at the beautiful scenery with awe.", 
+      },
+      {
+        id: 530,
+        question:
+          "Nous apportons des nouvelles pour le roi.",
+        answer:
+          "We bring tidings for the king.", 
+      },
+
    
   ];
 
