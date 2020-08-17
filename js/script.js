@@ -3569,7 +3569,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : What is the 3 honorific form and give some short details?",
         answer:　
-        "ていねいご（・ます form), そんけいご（・られる or very polite お帰りなります), けんじょうご (use to humble yourself or lower your rank)",
+        "ていねいご（・ます form), そんけいご（・られる or very polite お帰りなります), けんじょうご・お手伝いします (use to humble yourself or lower your rank)",
       },
       {
         id: 503,
@@ -3625,7 +3625,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] :（行きます、来ます、います）、いいます、知っています、見ます、します、くれます、（食べます、飲みます）、あります、何がほしい。(in very polite form).",
         answer:　
-        "(いらっしゃいます)、おっしゃいます、ごぞんじです、ごらんになります、なさいます、くださいます、（めいしあがります）、何がよろしいでしょうか",
+        "(いらっしゃいます)、おっしゃいます、ごぞんじです、ごらんになります、なさいます、くださいます、（めいしあがります、ございます、何がよろしいでしょうか",
       },
       {
         id: 511,
@@ -3714,7 +3714,7 @@ const reviewArray = [
       {
         id: 523,
         question:
-          "Les plantes ne peuvent pas pousser dans les profondeurs de le l'ocean car il n'a pas the rayon de solair.",
+          "Les plantes ne peuvent pas pousser dans les profondeurs de l'ocean car il n'a pas de rayon solaire.",
         answer:
           "Plants cannot grow in the deep sea because there is no sunlight.", 
       },
@@ -3723,14 +3723,14 @@ const reviewArray = [
         question:
           "Ma nouvelle voiture est spacieuse pour une très petite voiture.",
         answer:
-          "My new car is roomy for subcomplact.", 
+          "My new car is roomy for subcompact.", 
       },
       {
         id: 525,
         question:
           "Il y a une tache de ketchup sur ta chemise.",
         answer:
-          "There is a ketchup spot on your shirt there.", 
+          "There is a ketchup spot on your shirt.", 
       },
       {
         id: 526,
@@ -3756,7 +3756,7 @@ const reviewArray = [
       {
         id: 529,
         question:
-          "Les enfants fixaient le paysage avec émerveillement.",
+          "Les enfants fixaient le paysage magnifique avec émerveillement.",
         answer:
           "The children stared at the beautiful scenery with awe.", 
       },
@@ -3767,6 +3767,224 @@ const reviewArray = [
         answer:
           "We bring tidings for the king.", 
       },
+      {
+        id: 531,
+        question:
+        "[Coding] : What is a props/properties within a component in React?",
+        answer:　
+        "It's like an attribute in html tags, we add to the parent and grap it to the childrens function.",
+      },
+      {
+        id: 532,
+        question:
+        "[Coding] : What is JSX in React ?",
+        answer:　
+        "Is the html code inside the () after the return. Means we are able to code html inside javascript.",
+      },
+      {
+        id: 553,
+        question:
+        "[Translate in Jap] : If it will iterupted because of the rain i will call you. (けんじょうご-to customers)",
+        answer:　
+        "雨でちゅうしになったばあいは、ごれんらくします。",
+      },
+      {
+        id: 554,
+        question:
+        "[Translate in Jap] : If it will iterupted because of the rain i will call you. (けんじょうご-to customers)",
+        answer:　
+        "雨でちゅうしになったばあいは、ごれんらくします。",
+      },
+      {
+        id: 555,
+        question:
+        "[Translate in Jap] : I will introduce Mr. Santos to Mr. Katou. （けんじょうご・to customers)",
+        answer:　
+        "かとうさんにサントスさんをごしょうたいします。",
+      },
+      {
+        id: 556,
+        question:
+        "[Translate in Jap] : I will arrange/getting ready here the lunch bento.",
+        answer:　
+        "こちらでお昼のおべんとうをごよういします。",
+      },
+      {
+        id: 556,
+        question:
+        "[Translate in Jap] : Afternoon(pm) i will guide the KinKaku. (けんじょうご・customers)",
+        answer:　
+        "ごごはきんかくじをごあんないします。",
+      },
+      {
+        id: 557,
+        question:
+        "[Translate in Jap] : I invite the teacher in my house. (けんじょうご・customers)",
+        answer:　
+        "先生を私の家にごしょうたいします。",
+      },
+      {
+        id: 558,
+        question:
+        "[Translate in Jap] : I will explain to the customer the way to use the copy machine. (けんじょうご・customers)",
+        answer:　
+        "おきゃくさまにコピーきの使い方をごせつめいします。",
+      },
+      {
+        id: 559,
+        question:
+        "[Translate in Jap] : Did you visit the Osaka's Castle? (Question in the very polite way) , Yes i did. (standard respons since he's the person who got the respect).",
+        answer:　
+        "大阪じょうはけんがくなさいましたか。・はい、けんがくしました。",
+      },
+      {
+        id: 560,
+        question:
+        "[Translate in Jap] : I will explain about meals and baths. (very polite, to a customer)",
+        answer:　
+        "おしょくじとおふろについてごせつめいします。",
+      },
+      {
+        id: 561,
+        question:
+        "[Translate in Jap] : silk",
+        answer:　
+        "きぬ。",
+      },
+      {
+        id: 562,
+        question:
+        "[Translate in Jap] : season",
+        answer:　
+        "きせつ",
+      },
+      {
+        id: 563,
+        question:
+        "[Translate in Jap] : train(locomotive)",
+        answer:　
+        "きしゃ",
+      },
+      {
+        id: 564,
+        question:
+        "[Translate in Jap] : rule",
+        answer:　
+        "きそく",
+      },
+      {
+        id: 565,
+        question:
+        "[Translate in Jap] : international",
+        answer:　
+        "こくさい",
+      },
+      {
+        id: 566,
+        question:
+        "[Translate in Jap] : (husked gains of) rice",
+        answer:　
+        "こめ",
+      },
+      {
+        id: 567,
+        question:
+        "[Translate in Jap] : to be crowded",
+        answer:　
+        "こむ",
+      },
+      {
+        id: 568,
+        question:
+        "[Translate in Jap] : the other day, recently",
+        answer:　
+        "このあいだ",
+      },
+      {
+        id: 569,
+        question:
+        "[Translate in Jap] : these days, nowadays",
+        answer:　
+        "このごろ",
+      },
+      {
+        id: 570,
+        question:
+        "[Translate in Jap] : after this",
+        answer:　
+        "これから",
+      },
+      {
+        id: 571,
+        question:
+          "La mère s'est fâchée contre son ado insolent et ne l'a pas autorisé à sortir avec ses amis.",
+        answer:
+          "The mother got cross with her insolent(incolent) teenage son and didn't allow him to go out with his friends.", 
+      },
+      {
+        id: 572,
+        question:
+          "Maman s'est fâchée quand elle a découvert mes frères et moi en train de glisser sur la rampe de l'escalier.",
+        answer:
+          "Mum got cross when she found my brothers and me sliding down the banister(baenister).", 
+      },
+      {
+        id: 573,
+        question:
+          "Patricia a vérifié minutieusement tous les détails.",
+        answer:
+          "Patricia checked all the details thoroughly(fureli).", 
+      },
+      {
+        id: 574,
+        question:
+          "Patricia a vérifié minutieusement tous les détails.",
+        answer:
+          "Wash your hands thoroughly(fureli) with soap and water to get rid of germs.", 
+      },
+      {
+        id: 575,
+        question:
+          "La maison était restée fermée pendant des années et l'air a l'interieur etait renfermes.",
+        answer:
+          "The house had been closed up for years and air inside was stale(staeil)", 
+      },
+      {
+        id: 576,
+        question:
+          "Ajoutez un mix de lait et de la crème à quantité égale (or: équivalente).",
+        answer:
+          "Add an even mixture of milk and cream.", 
+      },
+      {
+        id: 577,
+        question:
+          "Le fermier a tondu la laine du mouton.",
+        answer:
+          "The farmer sheared the wool off the sheep.", 
+      },
+      {
+        id: 578,
+        question:
+          "Elisa déteste sa jupe en laine parce qu'elle la gratte et lui cause des démangeaisons dans les jambes.",
+        answer:
+          "Elisa hates her wool skirt because it's scratchy and makes her legs itch.", 
+      },
+      {
+        id: 579,
+        question:
+          "Tu pouvais dire/deviner que la petite fille etait entrain de pleurer a cause des ses reniflement.",
+        answer:
+          "You could tell the little girl was crying from her sniffles.", 
+      },
+      {
+        id: 580,
+        question:
+          "Le professeur a enseigne un cour d'histoire fasciant.",
+        answer:
+          "The professor taught a fascinating(facenaeiding) history course.", 
+      },
+     
 
    
   ];
