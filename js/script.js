@@ -3782,16 +3782,9 @@ const reviewArray = [
         "Is the html code inside the () after the return. Means we are able to code html inside javascript.",
       },
       {
-        id: 553,
-        question:
-        "[Translate in Jap] : If it will iterupted because of the rain i will call you. (けんじょうご-to customers)",
-        answer:　
-        "雨でちゅうしになったばあいは、ごれんらくします。",
-      },
-      {
         id: 554,
         question:
-        "[Translate in Jap] : If it will iterupted because of the rain i will call you. (けんじょうご-to customers)",
+        "[Translate in Jap] : If it become interrupted because of the rain i will call you. (けんじょうご-to customers)",
         answer:　
         "雨でちゅうしになったばあいは、ごれんらくします。",
       },
@@ -3800,7 +3793,7 @@ const reviewArray = [
         question:
         "[Translate in Jap] : I will introduce Mr. Santos to Mr. Katou. （けんじょうご・to customers)",
         answer:　
-        "かとうさんにサントスさんをごしょうたいします。",
+        "かとうさんにサントスさんをごしょうかいします。",
       },
       {
         id: 556,
@@ -3938,7 +3931,7 @@ const reviewArray = [
       {
         id: 574,
         question:
-          "Patricia a vérifié minutieusement tous les détails.",
+          "Lavez vos mains minutieusement avec du savon et de l'eau pour vous debarrassez des microbes.",
         answer:
           "Wash your hands thoroughly(fureli) with soap and water to get rid of germs.", 
       },
@@ -3961,7 +3954,7 @@ const reviewArray = [
         question:
           "Le fermier a tondu la laine du mouton.",
         answer:
-          "The farmer sheared the wool off the sheep.", 
+          "The farmer sheared(shiert) the wool off the sheep.", 
       },
       {
         id: 578,
