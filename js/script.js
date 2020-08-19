@@ -3977,6 +3977,216 @@ const reviewArray = [
         answer:
           "The professor taught a fascinating(facenaeiding) history course.", 
       },
+      {
+        id: 581,
+        question:
+        "[Coding] : What is state in React ?",
+        answer:　
+        "Is an object that describes your app.",
+      },
+      {
+        id: 582,
+        question:
+        "[Coding] : What is the method this.setState() in react ?",
+        answer:　
+        "You use that method if you want to change the current state.",
+      },
+      {
+        id: 583,
+        question:
+        "[Coding] : What is a smart component in react ?",
+        answer:　
+        "Is a component that has a state. If they don't have a state we call them standard component.",
+      },
+      {
+        id: 584,
+        question:
+        "[Coding] : What is children in react ?",
+        answer:　
+        "Children is the component that is wrapped by a parent component. Means that with props.children we have acces to the children props.",
+      },
+      {
+        id: 585,
+        question:
+        "[Translate in Jap] : Before it was always with car but now i tought about my health, i walk become to walk a lot. ",
+        answer:　
+        "前はいつも車でしたが、今はけんこうのことを考えて（・かんがえて）、よく歩くようになりました。",
+      },
+      {
+        id: 586,
+        question:
+        "[Translate in Jap] : Sunday i cleaning and laundry usw... at home. ",
+        answer:　
+        "日曜日は家で掃除（そうじ）とか洗濯（せんたく）とかをします。",
+      },
+      {
+        id: 587,
+        question:
+        "[Translate in Jap] : Next week there's a test, that's  why i plan this week take a rest from my part time job and study.",
+        answer:　
+        "来週は試験（・しけん）があります。だから、今週はアルバイトを休んで勉強するつもりです。",
+      },
+      {
+        id: 588,
+        question:
+        "[Translate in Jap] : Because i'm tired, i go early home and think to go sleep.",
+        answer:　
+        "疲れた（・つかれた）から、早く家に帰って寝よう（ねよう）と思います。",
+      },
+      {
+        id: 589,
+        question:
+        "[Translate in Jap] : I was thinking to come here again next week.",
+        answer:　
+        "来週はまたここに来ようと思っていました。",
+      },
+      {
+        id: 590,
+        question:
+        "[Translate in Jap] : Do you like french cuisine. Yes but i don't think to eat it everyday. Sometimes i become wanted to eat it tho.",
+        answer:　
+        "フランス料理（・りょうり）は好きですか。ええ、でも毎日食べようとは思いません。",
+      },
+      {
+        id: 591,
+        question:
+        "[Translate in Jap] : This dish is easy, everybody can make it.",
+        answer:　
+        "この料理（りょうり）は簡単 （かんたん）だから、だれでも作れます。",
+      },
+      {
+        id: 592,
+        question:
+        "[Translate in Jap] : Before i used to read this book once.",
+        answer:　
+        "この本は前に一度読んだことがあります。",
+      },
+      {
+        id: 593,
+        question:
+        "[Translate in Jap] : Osaka's population are not as many as tokyo.",
+        answer:　
+        "大阪の人口（じんこう）は東京ほど多くありません。",
+      },
+      {
+        id: 594,
+        question:
+        "[Translate in Jap] : Your face color are bad isn't it. Today it's better to go home early.",
+        answer:　
+        "かおいろが悪い（わるい）ですね。今日は早く帰ったほうがいいですよ。",
+      },
+      {
+        id: 595,
+        question:
+        "[Translate in Jap] : Your face color are bad isn't it. Today it's better to go home early.",
+        answer:　
+        "このボールペンは書きにくいから、もう使いたくありません。",
+      },
+      {
+        id: 596,
+        question:
+        "[Translate in Jap] : a breakdown(une panne).",
+        answer:　
+        "こしょう",
+      },
+      {
+        id: 597,
+        question:
+        "[Translate in Jap] : small bird.",
+        answer:　
+        "ことり",
+      },
+      {
+        id: 598,
+        question:
+        "[Translate in Jap] : this way",
+        answer:　
+        "こう",
+      },
+      {
+        id: 599,
+        question:
+        "[Translate in Jap] : princial,headmaster(directeur d'ecole)",
+        answer:　
+        "こうちょう",
+      },
+      {
+        id: 600,
+        question:
+        "[Translate in Jap] : auditorium",
+        answer:　
+        "こうどう",
+      },
+      {
+        id: 601,
+        question:
+          "Toute sa vie, on lui a dit qu'il était un bon a rien mais il a prouvé le contraire.",
+        answer:
+          "His entire life he was told that he's a deadbeat but he proved the opposite.", 
+      },
+      {
+        id: 602,
+        question:
+          "Kevin est prétentieux/trop sur de soi, mais il fait trop d'erreurs.",
+        answer:
+          "Kevin is cocky(kaki), but he makes a lot of mistakes.", 
+      },
+      {
+        id: 603,
+        question:
+          "Après le dîner, James a essuyé la table.",
+        answer:
+          "After dinner, James wiped the table.", 
+      },
+      {
+        id: 604,
+        question:
+          "Wendy s'est essuyé le nez avec un mouchoir en papier.",
+        answer:
+          "Wendy wiped her nose with a tissue(tichiu)", 
+      },
+      {
+        id: 605,
+        question:
+          "Fred a dû faire face à plusieurs obstacles pour acheter sa maison.",
+        answer:
+          "Fred had to go over a lot of hurdles(herdels) to buy his house.", 
+      },
+      {
+        id: 606,
+        question:
+          "Le policier pourchassait le voleur dans la rue.",
+        answer:
+          "The police officer pursues(persuus) the thief along the street.", 
+      },
+      {
+        id: 607,
+        question:
+          "Mélanie poursuit des études de médecine.",
+        answer:
+          "Melanie is pursuing(perse-ing) a career in medecine.", 
+      },
+      {
+        id: 608,
+        question:
+          "Cette thèse est si ennuyeuse que je me suis endormi en la lisant.",
+        answer:
+          "The thesis was so dull(dall) that i fell asleep reading it.", 
+      },
+      {
+        id: 609,
+        question:
+          "Contemplez/Regardez! Je vous apporte des nouvelles de grande joie.",
+        answer:
+          "Behold! I bring you tidings of great joy.", 
+      },
+      {
+        id: 610,
+        question:
+          "Peter a mis ses sacs de course sur le siège arrière de la voiture.",
+        answer:
+          "Peter put his shopping bags on the rear(rier) seat of the car.", 
+      },
      
 
    
