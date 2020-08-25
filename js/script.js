@@ -3781,6 +3781,131 @@ const reviewArray = [
       "Nous avons pris des coupes glacées pour célébrer la victoire de l'équipe.",
     answer: "We had sundaes(sundays) to celebrate the team's victory.",
   },
+  {
+    id: 641,
+    question:
+      "[Translate in Jap] : Did the boss see this morning's news? Yes he saw it i think. - No, he did saw i think. (very polite)",
+    answer:
+      "社長は今朝（・けさ）のニュースをごらんになりましたか。・はい、ごらんになったと思います。・いいえ、ごらんにならないと思います。",
+  },
+  {
+    id: 642,
+    question:
+      "[Translate in Jap] : Does the manager drink beer ? No, i think he doesn't. (very polite)",
+    answer:
+      "部長はビールをめしあがりますか。いいえ、めしあがらないと思います。",
+  },
+  {
+    id: 643,
+    question:
+      "[Translate in Jap] : Teacher, i also wanna help. (very polite)",
+    answer:
+      "先生、私はもお手伝いします。",
+  },
+  {
+    id: 644,
+    question:
+      "[Translate in Jap] : Teacher, i'll carry the prints. (very polite)",
+    answer:
+      "先生、私がプリントをお持ちします。",
+  },
+  {
+    id: 645,
+    question:
+      "[Translate in Jap] : It looks heavy, i'll carry one luggage. (very polite)",
+    answer:
+      "おもぞうですね。荷物（・にもつ）を一つお持ちします。",
+  },
+  {
+    id: 646,
+    question:
+      "[Translate in Jap] : I will respond to a question. (very polite, i lower my rank)",
+    answer:
+      "ご質問（しつもん）にお答え（こたえ）します。",
+  },
+  {
+    id: 647,
+    question:
+      "[Translate in Jap] : I will deliver the luggage/package during the day time. (very polite, i lower my rank)",
+    answer:
+      "午前中（ごぜんちゅう）に荷物をおとどけします。（とどける）",
+  },
+  {
+    id: 648,
+    question:
+      "[Translate in Jap] : I will fix the length of the pants/trousers. (very polite, i lower my rank)",
+    answer:
+      "ズボンの長さをおなおしします。",
+  },
+  {
+    id: 649,
+    question:
+      "[Translate in Jap] : Ah, this button will soon be removed, let's wear an other shirt.",
+    answer:
+      "あ、ボタンが取れそうだ（とれる）。ほかのシャツをきょう。",
+  },
+  {
+    id: 650,
+    question:
+      "[Translate in Jap] : It's seem to be a delicious sweet, I also take one please.",
+    answer:
+      "美味しそうなおかしですね。私も一つください。",
+  },
+  {
+    id: 651,
+    question: "[Translate in Jap] : to compare",
+    answer: "くらべる",
+  },
+  {
+    id: 651,
+    question: "[Translate in Jap] : to get dark",
+    answer: "くれる",
+  },
+  {
+    id: 652,
+    question: "[Translate in Jap] : grass",
+    answer: "くさ",
+  },
+  {
+    id: 653,
+    question: "[Translate in Jap] : education",
+    answer: "きょういく",
+  },
+  {
+    id: 654,
+    question: "[Translate in Jap] : church",
+    answer: "きょうかい",
+  },
+  {
+    id: 655,
+    question: "[Translate in Jap] : interest(in smth)",
+    answer: "きょうみ",
+  },
+  {
+    id: 656,
+    question: "[Translate in Jap] : competition",
+    answer: "きょうそう",
+  },
+  {
+    id: 657,
+    question: "[Translate in Jap] : sudden/unexpected",
+    answer: "きゅう",
+  },
+  {
+    id: 658,
+    question: "[Translate in Jap] : hurrying/rushing",
+    answer: "きゅうこう",
+  },
+  {
+    id: 659,
+    question: "[Translate in Jap] : to make a mistake",
+    answer: "まちがえる",
+  },
+  {
+    id: 660,
+    question: "[Translate in Jap] : to go/come (humble)",
+    answer: "まいる",
+  },
 ];
 
 const reviewBox = document.getElementById("review-box");
