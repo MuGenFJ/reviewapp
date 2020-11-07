@@ -4095,6 +4095,126 @@ const reviewArray = [
     answer:
       "あの本は難しいから、上級（じょうきゅう）レベルの学生でも読めないでしょう。",
   },
+  {
+    id: 691,
+    question:
+      "J'ai grandi en banlieue, c'etait tres ennuyeux.",
+    answer: "I grew up in the suburb, it was really boring.(saberb).",
+  },
+  {
+    id: 692,
+    question:
+      "Ce n'est pas une bonne idée de parler/soulever de politique avec ma famille.",
+    answer: "It is not a good idea to bring up politics with my family.",
+  },
+  {
+    id: 693,
+    question:
+      "Mary est tombée en panne en allant au travail, ce qui a cause son retard.",
+    answer: "Mary had a breakdown on the way to work, which caused her to be late.",
+  },
+  {
+    id: 694,
+    question:
+      "L'auditorium était plein à craquer d'étudiants impatients d'écouter le débat.",
+    answer: "The auditorium was packed with students eager to hear the debate. (aditoriem) / (debaeit)",
+  },
+  {
+    id: 695,
+    question:
+      "J'ai hâte de vous montrer ma nouvelle maison.",
+    answer: "I'm eager to show you my new house.",
+  },
+  {
+    id: 696,
+    question:
+      "Ces nuages sont menaçants ; je pense qu'il va y avoir un orage.",
+    answer: "Those clouds look very ominous/threatening, i think there's going to be a storm. (a-menes) (thraetening)",
+  },
+  {
+    id: 697,
+    question:
+      "Elle a essayé de devenir pom-pom girl quand elle était en troisième.",
+    answer: "She tried out to be a cheerleader when she was a freshman.",
+  },
+  {
+    id: 698,
+    question:
+      "James avait un gros bleu au genou après s'être cogné contre la table.",
+    answer: "James had a big bruise on his knee from running into the table.",
+  },
+  {
+    id: 699,
+    question:
+      "Certaines chenilles sont venimeuses au toucher, donc fais attention.",
+    answer: "Some caterpillars are poisnous to touch, so be careful.(kaetepillers) ",
+  },
+  {
+    id: 700,
+    question:
+      "Je suis emerveille de comment tu arrives de te rappeller tout de tous ces faits.",
+    answer: "I marvel at how you can remember all those facts.",
+  },
+  {
+    id: 701,
+    question:
+      "Je prefere la fantasie au realisme en roman. ",
+    answer: "I prefer fantasy to realism in novels. (rialism)",
+  },
+  {
+    id: 702,
+    question:
+      "Le chirurgien se préparait à opérer le patient. ",
+    answer: "The surgeon prepared to operate on the patient. (serjen)",
+  },
+  {
+    id: 703,
+    question:
+      "Dan a trouvé un emploi de gardien/concierge dans un immeuble de bureaux du coin.",
+    answer: "Dan got a job as a janitor in a local office building. (djaeniter)",
+  },
+  {
+    id: 704,
+    question:
+      "Au Luxembourg bcp de portugais travaillent comme macon.",
+    answer: "In Luxembourg a lot of portoguese people work as bricklayer.",
+  },
+  {
+    id: 705,
+    question:
+      "Ma vue était floue lorsque je me suis réveillé mais ça va mieux à présent.",
+    answer: "My vision was blurry when i woke up but it's better now.",
+  },
+  {
+    id: 706,
+    question:
+      "L'optométriste dit que j'ai besoin des lunettes. ",
+    answer: "The optemetrist says i need glasses. (optemaetrist)",
+  },
+  {
+    id: 707,
+    question:
+      "Nous avons besoin d'un grand cadre pour cette photo.",
+    answer: "We need a large frame to put this photo in.",
+  },
+  {
+    id: 708,
+    question:
+      "Quand j'etais petit, j'essayais de ne jamais marcher sur les fissures des trottoirs.",
+    answer: "When i was young, i tried not to step on cracks in the sidewalk.",
+  },
+  {
+    id: 709,
+    question:
+      "Kate conservait ses cookies dans un bocal sur l'étagère.",
+    answer: "Kate kept her cookies in a jar on the shelf.",
+  },
+  {
+    id: 710,
+    question:
+      "Le bus a été retardé parce qu'un cycliste a été renversé par une voiture.",
+    answer: "The bus was delayed because a cyclist was knocked over by a car.",
+  },
 ];
 
 const reviewBox = document.getElementById("review-box");
