@@ -4215,6 +4215,336 @@ const reviewArray = [
       "Le bus a été retardé parce qu'un cycliste a été renversé par une voiture.",
     answer: "The bus was delayed because a cyclist was knocked over by a car.",
   },
+  {
+    id: 711,
+    question:
+      "[Translate in Jap] : Various Flowers are (raise/promote to growth) in the garden.",
+    answer:
+      "庭で色々な花を育てている。（にわ・そだてる）",
+  },
+  {
+    id: 712,
+    question:
+      "[Translate in Jap] : A famous singer is living in the　neighbourhood.",
+    answer:
+      "近くに有名な歌手が住んでいます。（かしゅ）",
+  },
+  {
+    id: 713,
+    question:
+      "[Translate in Jap] : Who is that person with the white sweater ? (honorific)",
+    answer:
+      "あの白いセーターの方はどなたですか。",
+  },
+  {
+    id: 714,
+    question:
+      "[Translate in Jap] : A quiet place is good (if)in case you move.",
+    answer:
+      "引っ越すなら静かな所がいいです。（ひっこす・しずか）",
+  },
+  {
+    id: 715,
+    question:
+      "[Translate in Jap] : Please copy this part/section of the textbook.",
+    answer:
+      "教科書この部分をコピーしてください。（きょうかしょ・ぶぶん）",
+  },
+  {
+    id: 716,
+    question:
+      "[Translate in Jap] : I think i would like to work on a TV office/department in the future.",
+    answer:
+      "将来テレビきょくで働きたいと思います。",
+  },
+  {
+    id: 717,
+    question:
+      "[Translate in Jap] : I'm able to make western clothes by myself.",
+    answer:
+      "自分で洋服を作ることができます。（ようふく）",
+  },
+  {
+    id: 718,
+    question:
+      "[Translate in Jap] : What time will you finish your work today?",
+    answer:
+      "今日仕事は何時に終わりますか。",
+  },
+  {
+    id: 719,
+    question:
+      "[Translate in Jap] : In my childhood i wanted to work in a flower shop.",
+    answer:
+      "子供の時花屋になりたっかったです。",
+  },
+  {
+    id: 720,
+    question:
+      "[Translate in Jap] : I'll go visit my sister who's living in China.",
+    answer:
+      "中国いる姉に会いに行きます。",
+  },
+  {
+    id: 721,
+    question:
+      "Linda a entendu un petit coup à la fenêtre et a levé les yeux pour apercevoir le facteur qui avait un paquet pour elle.",
+    answer: "Linda heard a tap at the window and looked up to see the postman with a parcel for her.",
+  },
+  {
+    id: 722,
+    question:
+      "Je n'ai jeté qu'un coup d'œil rapide, mais je ne crois pas que Julie était là.",
+    answer: "I just had a quick peek but I don't think Julie was there.",
+  },
+  {
+    id: 723,
+    question:
+      "Des voleurs l'ont arrêté dans le train et ont exigé son portefeuille. ",
+    answer: "The robbers stopped him on the train and demanded his wallet.(rabes)",
+  },
+  {
+    id: 724,
+    question:
+      "Kate a dû appeler quelqu'un pour réparer sa chaudière.",
+    answer: "Kate had to call someone to come repair the furnace. (fernic)",
+  },
+  {
+    id: 725,
+    question:
+      "Les lattes du plancher ont craqué quand j'ai traversé la pièce.",
+    answer: "The floorboards creaked as I walked across the room. (crikt)",
+  },
+  {
+    id: 726,
+    question:
+      "Karen avait une petite niece qu'elle aimait faire sortir pour manger une glace en ete.",
+    answer: "Karen had a youg niece who she liked to take out for ice cream in the summer.(nic)",
+  },
+  {
+    id: 727,
+    question:
+      "Bonobos and chimpanzees are cousins.",
+    answer: "Bonobos and chimpanzees are cousins. (chim-paen-ziz) (kasens)",
+  },
+  {
+    id: 728,
+    question:
+      "L'idée était l'intention de promouvoir/d'encourager leurs relations entre eux.",
+    answer: "The idea was intended to foster better relations between them.",
+  },
+  {
+    id: 729,
+    question:
+      "Les ouvriers ont monté une coopérative et dirigent l'entreprise eux-mêmes.",
+    answer: "The workers formed a co-op and ran the store themselves. (kowap) / (raen)",
+  },
+  {
+    id: 730,
+    question:
+      "Mon nouveau costume est fait par un tailleur professionnel.",
+    answer: "My new suit is made by a professional tailor.",
+  },
+  {
+    id: 731,
+    question:
+      "Le vendeur m'a montré plusieurs voitures mais elles bien toutes trop chères.",
+    answer: "The salesman showed me several cars, but they were way too expensive.",
+  },
+  {
+    id: 732,
+    question:
+      "Je vais devoir louer un smoking pour le bal.",
+    answer: "I'll have to rent a tuxedo for the ball. (taxido)",
+  },
+  {
+    id: 733,
+    question:
+      "Kevin est en charge de la comptabilite de la companie.",
+    answer: "Kevin is in charge of the company's bookkeeping.",
+  },
+  {
+    id: 734,
+    question:
+      "Brandon a trouve un job a faire les foins apres l'ecole.",
+    answer: "Brandon got a job haying after school.",
+  },
+  {
+    id: 735,
+    question:
+      "Les fermes au etats unis ont souvent la caracteristique de luminieuse rouge grange.",
+    answer: "Farms in the US often feature bright red barns. (fitche)",
+  },
+  {
+    id: 736,
+    question:
+      "J'ai fouillé dans mon sac pour trouver mes clés de voiture.",
+    answer: "I fumbled in my bag for my car keys.",
+  },
+  {
+    id: 737,
+    question:
+      "Leurs enfants sont de mechants, bruyants pourris gâtés.",
+    answer: "Their kids are a bunch of nasty, noisy, spoilt brats.",
+  },
+  {
+    id: 738,
+    question:
+      "Avant d'aller me coucher, j'éteins la télé.",
+    answer: "Before i go sleep I turn off the TV.",
+  },
+  {
+    id: 739,
+    question:
+      "L'enseignante a soupiré en entendant la toute dernière excuse de Mike pour ses devoirs non faits.",
+    answer: "The teacher sighed as Mike gave his latest excuse for not doing his homework. (sait) (laedest)",
+  },
+  {
+    id: 740,
+    question:
+      "Dans l'ensemble, il a fait du bon travail.",
+    answer: "Overall, he did a fairly good job.",
+  },
+  {
+    id: 741,
+    question:
+      "[Translate in Jap] : I go often shopping in front of station.",
+    answer:
+      "駅前の店でよく買い物します。",
+  },
+  {
+    id: 742,
+    question:
+      "[Translate in Jap] : Tomorrow will be 10ºC cooler than today.",
+    answer:
+      "明日は今日より１０C度も気温が低くなります。",
+  },
+  {
+    id: 743,
+    question:
+      "[Translate in Jap] : I buy my lunch near the company.",
+    answer:
+      "昼ご飯は会社の近くで買います。",
+  },
+  {
+    id: 744,
+    question:
+      "[Translate in Jap] : I want black boots.",
+    answer:
+      "黒いブーツがほしいです。",
+  },
+  {
+    id: 745,
+    question:
+      "[Translate in Jap] : From tomorrow morning on, a bunch of customers lined up. ",
+    answer:
+      "朝からたくさんのお客さんが並んでいます。",
+  },
+  {
+    id: 746,
+    question:
+      "[Translate in Jap] : This supermarket is open until 9pm.",
+    answer:
+      "あのスーパーは午後9時までです。",
+  },
+  {
+    id: 747,
+    question:
+      "[Translate in Jap] : Today's dinner I will eat a bento.",
+    answer:
+      "今日の晩御飯はお弁当にします。",
+  },
+  {
+    id: 748,
+    question:
+      "[Translate in Jap] : There's a bunch of nice shops in this city.",
+    answer:
+      "この町は親切な店が多いです。",
+  },
+  {
+    id: 749,
+    question:
+      "[Translate in Jap] : Until what Time is the bank's ATM open ?",
+    answer:
+      "銀行のATMは何時までですか。",
+  },
+  {
+    id: 750,
+    question:
+      "[Translate in Jap] : I'll go out with my mother tomorrow during the daytime.",
+    answer:
+      "明日の昼間は母と出かけます。",
+  },
+  {
+    id: 751,
+    question:
+      "[Translate in Jap] : The conbini is even open in the middle of the night.",
+    answer:
+      "コンビニは夜中でも開いています。",
+  },
+  {
+    id: 752,
+    question:
+      "[Translate in Jap] : Is still early, the shop isn't open.",
+    answer:
+      "まだ早いので店が開いていません。",
+  },
+  {
+    id: 753,
+    question:
+      "[Translate in Jap] : I often write letters at the cafee shop.",
+    answer:
+      "私はよく喫茶店で手紙を書きます。",
+  },
+  {
+    id: 754,
+    question:
+      "[Translate in Jap] : There is milk behind the cheese.",
+    answer:
+      "チーズの後ろに牛乳があります。",
+  },
+  {
+    id: 755,
+    question:
+      "[Translate in Jap] : Popular shops are also be liked when is morning.(am)",
+    answer:
+      "人気の店も午後なら好いています。",
+  },
+  {
+    id: 756,
+    question:
+      "[Translate in Jap] : The sweets I wanted have been sold.",
+    answer:
+      "ほしかったお菓子が売りされてしまいました。",
+  },
+  {
+    id: 757,
+    question:
+      "[Translate in Jap] : Please write here your adress.",
+    answer:
+      "ここに住所を書いてください。",
+  },
+  {
+    id: 758,
+    question:
+      "[Translate in Jap] : Airmail/Airservice are so fast.",
+    answer:
+      "航空便はとても早いです。（こうくうびん）",
+  },
+  {
+    id: 759,
+    question:
+      "[Translate in Jap] : Hey ! Do you know where the meeting's data is, that was here ? Oh! Isn't it there. ",
+    answer:
+      "ねえ、ここにあった会議の資料を知らない？ えっ、ないんですか。 (しりょう）",
+  },
+  {
+    id: 760,
+    question:
+      "[Translate in Jap] : Rii, did you decide what are you gonna do after finishing the university? I'll go back home and do international trade.",
+    answer:
+      "リーさん、大学を卒業したら、どうするか決まりましたか。国に帰って、貿易の仕事をします。",
+  },
 ];
 
 const reviewBox = document.getElementById("review-box");
